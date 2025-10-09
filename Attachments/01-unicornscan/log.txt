@@ -1,0 +1,65 @@
+adding 192.168.142.134/32 mode `TCPscan' ports `a' pps 500
+using interface(s) eth0
+scaning 1.00e+00 total hosts with 6.55e+04 total packets, should take a little longer than 2 Minutes, 18 Seconds
+TCP open 192.168.142.134:22  ttl 64
+TCP open 192.168.142.134:445  ttl 64
+TCP open 192.168.142.134:21  ttl 64
+TCP open 192.168.142.134:6000  ttl 64
+TCP open 192.168.142.134:2049  ttl 64
+TCP open 192.168.142.134:1099  ttl 64
+TCP open 192.168.142.134:139  ttl 64
+TCP open 192.168.142.134:512  ttl 64
+TCP open 192.168.142.134:1524  ttl 64
+TCP open 192.168.142.134:54776  ttl 64
+TCP open 192.168.142.134:8009  ttl 64
+TCP open 192.168.142.134:80  ttl 64
+TCP open 192.168.142.134:8180  ttl 64
+TCP open 192.168.142.134:3632  ttl 64
+TCP open 192.168.142.134:513  ttl 64
+TCP open 192.168.142.134:514  ttl 64
+TCP open 192.168.142.134:111  ttl 64
+TCP open 192.168.142.134:60839  ttl 64
+TCP open 192.168.142.134:2121  ttl 64
+TCP open 192.168.142.134:5900  ttl 64
+TCP open 192.168.142.134:8787  ttl 64
+TCP open 192.168.142.134:25  ttl 64
+TCP open 192.168.142.134:6667  ttl 64
+TCP open 192.168.142.134:53  ttl 64
+TCP open 192.168.142.134:3306  ttl 64
+TCP open 192.168.142.134:23  ttl 64
+TCP open 192.168.142.134:57843  ttl 64
+TCP open 192.168.142.134:6697  ttl 64
+TCP open 192.168.142.134:59489  ttl 64
+TCP open 192.168.142.134:5432  ttl 64
+sender statistics 484.1 pps with 65536 packets sent total
+listener statistics 65540 packets recieved 0 packets droped and 0 interface drops
+TCP open	             ftp[   21]		from 192.168.142.134  ttl 64 
+TCP open	             ssh[   22]		from 192.168.142.134  ttl 64 
+TCP open	          telnet[   23]		from 192.168.142.134  ttl 64 
+TCP open	            smtp[   25]		from 192.168.142.134  ttl 64 
+TCP open	          domain[   53]		from 192.168.142.134  ttl 64 
+TCP open	            http[   80]		from 192.168.142.134  ttl 64 
+TCP open	          sunrpc[  111]		from 192.168.142.134  ttl 64 
+TCP open	     netbios-ssn[  139]		from 192.168.142.134  ttl 64 
+TCP open	    microsoft-ds[  445]		from 192.168.142.134  ttl 64 
+TCP open	            exec[  512]		from 192.168.142.134  ttl 64 
+TCP open	           login[  513]		from 192.168.142.134  ttl 64 
+TCP open	           shell[  514]		from 192.168.142.134  ttl 64 
+TCP open	     rmiregistry[ 1099]		from 192.168.142.134  ttl 64 
+TCP open	      ingreslock[ 1524]		from 192.168.142.134  ttl 64 
+TCP open	           shilp[ 2049]		from 192.168.142.134  ttl 64 
+TCP open	   scientia-ssdb[ 2121]		from 192.168.142.134  ttl 64 
+TCP open	           mysql[ 3306]		from 192.168.142.134  ttl 64 
+TCP open	          distcc[ 3632]		from 192.168.142.134  ttl 64 
+TCP open	      postgresql[ 5432]		from 192.168.142.134  ttl 64 
+TCP open	          winvnc[ 5900]		from 192.168.142.134  ttl 64 
+TCP open	             x11[ 6000]		from 192.168.142.134  ttl 64 
+TCP open	             irc[ 6667]		from 192.168.142.134  ttl 64 
+TCP open	         unknown[ 6697]		from 192.168.142.134  ttl 64 
+TCP open	         unknown[ 8009]		from 192.168.142.134  ttl 64 
+TCP open	         unknown[ 8180]		from 192.168.142.134  ttl 64 
+TCP open	         msgsrvr[ 8787]		from 192.168.142.134  ttl 64 
+TCP open	         unknown[54776]		from 192.168.142.134  ttl 64 
+TCP open	         unknown[57843]		from 192.168.142.134  ttl 64 
+TCP open	         unknown[59489]		from 192.168.142.134  ttl 64 
+TCP open	         unknown[60839]		from 192.168.142.134  ttl 64 
