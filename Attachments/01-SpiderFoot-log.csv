@@ -1,0 +1,601 @@
+Date,Component,Type,Event,Event ID
+2025-09-26 17:34:13,sflib,STATUS,Scan [948DD7E6] for '192.168.142.134' initiated.,1
+2025-09-26 17:34:13,sflib,STATUS,sfp__stor_db module loaded.,2
+2025-09-26 17:34:13,sflib,STATUS,sfp_abstractapi module loaded.,3
+2025-09-26 17:34:13,sflib,STATUS,sfp_abusech module loaded.,4
+2025-09-26 17:34:13,sflib,STATUS,sfp_abuseipdb module loaded.,5
+2025-09-26 17:34:13,sflib,STATUS,sfp_abusix module loaded.,6
+2025-09-26 17:34:14,sfp_accounts,ERROR,Unable to parse social media accounts list: Extra data: line 1 column 4 (char 3),7
+2025-09-26 17:34:14,sflib,STATUS,sfp_accounts module loaded.,8
+2025-09-26 17:34:14,sflib,STATUS,sfp_adblock module loaded.,9
+2025-09-26 17:34:14,sflib,STATUS,sfp_adguard_dns module loaded.,10
+2025-09-26 17:34:14,sflib,STATUS,sfp_ahmia module loaded.,11
+2025-09-26 17:34:14,sflib,STATUS,sfp_alienvault module loaded.,12
+2025-09-26 17:34:14,sflib,STATUS,sfp_alienvaultiprep module loaded.,13
+2025-09-26 17:34:14,sflib,STATUS,sfp_apple_itunes module loaded.,14
+2025-09-26 17:34:14,sflib,STATUS,sfp_archiveorg module loaded.,15
+2025-09-26 17:34:14,sflib,STATUS,sfp_arin module loaded.,16
+2025-09-26 17:34:14,sflib,STATUS,sfp_azureblobstorage module loaded.,17
+2025-09-26 17:34:14,sflib,STATUS,sfp_badpackets module loaded.,18
+2025-09-26 17:34:14,sflib,STATUS,sfp_base64 module loaded.,19
+2025-09-26 17:34:15,sflib,STATUS,sfp_bgpview module loaded.,20
+2025-09-26 17:34:15,sflib,STATUS,sfp_binaryedge module loaded.,21
+2025-09-26 17:34:15,sflib,STATUS,sfp_bingsearch module loaded.,22
+2025-09-26 17:34:15,sflib,STATUS,sfp_bingsharedip module loaded.,23
+2025-09-26 17:34:16,sflib,STATUS,sfp_binstring module loaded.,24
+2025-09-26 17:34:16,sflib,STATUS,sfp_bitcoin module loaded.,25
+2025-09-26 17:34:16,sflib,STATUS,sfp_bitcoinabuse module loaded.,26
+2025-09-26 17:34:16,sflib,STATUS,sfp_bitcoinwhoswho module loaded.,27
+2025-09-26 17:34:16,sflib,STATUS,sfp_blockchain module loaded.,28
+2025-09-26 17:34:16,sflib,STATUS,sfp_blocklistde module loaded.,29
+2025-09-26 17:34:16,sflib,STATUS,sfp_botscout module loaded.,30
+2025-09-26 17:34:16,sflib,STATUS,sfp_botvrij module loaded.,31
+2025-09-26 17:34:16,sflib,STATUS,sfp_builtwith module loaded.,32
+2025-09-26 17:34:16,sflib,STATUS,sfp_c99 module loaded.,33
+2025-09-26 17:34:16,sflib,STATUS,sfp_callername module loaded.,34
+2025-09-26 17:34:16,sflib,STATUS,sfp_censys module loaded.,35
+2025-09-26 17:34:16,sflib,STATUS,sfp_certspotter module loaded.,36
+2025-09-26 17:34:16,sflib,STATUS,sfp_cinsscore module loaded.,37
+2025-09-26 17:34:16,sflib,STATUS,sfp_circllu module loaded.,38
+2025-09-26 17:34:16,sflib,STATUS,sfp_citadel module loaded.,39
+2025-09-26 17:34:16,sflib,STATUS,sfp_cleanbrowsing module loaded.,40
+2025-09-26 17:34:16,sflib,STATUS,sfp_cleantalk module loaded.,41
+2025-09-26 17:34:16,sflib,STATUS,sfp_clearbit module loaded.,42
+2025-09-26 17:34:16,sflib,STATUS,sfp_cloudflaredns module loaded.,43
+2025-09-26 17:34:16,sflib,STATUS,sfp_coinblocker module loaded.,44
+2025-09-26 17:34:16,sflib,STATUS,sfp_commoncrawl module loaded.,45
+2025-09-26 17:34:16,sflib,STATUS,sfp_comodo module loaded.,46
+2025-09-26 17:34:16,sflib,STATUS,sfp_company module loaded.,47
+2025-09-26 17:34:16,sflib,STATUS,sfp_cookie module loaded.,48
+2025-09-26 17:34:16,sflib,STATUS,sfp_countryname module loaded.,49
+2025-09-26 17:34:16,sflib,STATUS,sfp_creditcard module loaded.,50
+2025-09-26 17:34:16,sflib,STATUS,sfp_crobat_api module loaded.,51
+2025-09-26 17:34:16,sflib,STATUS,sfp_crossref module loaded.,52
+2025-09-26 17:34:16,sflib,STATUS,sfp_crt module loaded.,53
+2025-09-26 17:34:16,sflib,STATUS,sfp_crxcavator module loaded.,54
+2025-09-26 17:34:16,sflib,STATUS,sfp_customfeed module loaded.,55
+2025-09-26 17:34:16,sflib,STATUS,sfp_cybercrimetracker module loaded.,56
+2025-09-26 17:34:16,sflib,STATUS,sfp_darksearch module loaded.,57
+2025-09-26 17:34:16,sflib,STATUS,sfp_debounce module loaded.,58
+2025-09-26 17:34:16,sflib,STATUS,sfp_dehashed module loaded.,59
+2025-09-26 17:34:16,sflib,STATUS,sfp_digitaloceanspace module loaded.,60
+2025-09-26 17:34:16,sflib,STATUS,sfp_dns_for_family module loaded.,61
+2025-09-26 17:34:16,sflib,STATUS,sfp_dnsbrute module loaded.,62
+2025-09-26 17:34:16,sflib,STATUS,sfp_dnscommonsrv module loaded.,63
+2025-09-26 17:34:16,sflib,STATUS,sfp_dnsdb module loaded.,64
+2025-09-26 17:34:16,sfp_dnsdumpster,DEBUG,Setting up sfp_dnsdumpster,65
+2025-09-26 17:34:16,sflib,STATUS,sfp_dnsdumpster module loaded.,66
+2025-09-26 17:34:17,sflib,STATUS,sfp_dnsgrep module loaded.,67
+2025-09-26 17:34:17,sflib,STATUS,sfp_dnsneighbor module loaded.,68
+2025-09-26 17:34:17,sflib,STATUS,sfp_dnsraw module loaded.,69
+2025-09-26 17:34:17,sfp_dnsresolve,STATUS,Identifying aliases for specified target(s),70
+2025-09-26 17:34:17,sflib,STATUS,sfp_dnsresolve module loaded.,71
+2025-09-26 17:34:17,sflib,STATUS,sfp_dnszonexfer module loaded.,72
+2025-09-26 17:34:17,sflib,STATUS,sfp_dronebl module loaded.,73
+2025-09-26 17:34:17,sflib,STATUS,sfp_duckduckgo module loaded.,74
+2025-09-26 17:34:17,sflib,STATUS,sfp_email module loaded.,75
+2025-09-26 17:34:17,sflib,STATUS,sfp_emailcrawlr module loaded.,76
+2025-09-26 17:34:17,sflib,STATUS,sfp_emailformat module loaded.,77
+2025-09-26 17:34:17,sflib,STATUS,sfp_emailrep module loaded.,78
+2025-09-26 17:34:17,sflib,STATUS,sfp_emergingthreats module loaded.,79
+2025-09-26 17:34:17,sflib,STATUS,sfp_errors module loaded.,80
+2025-09-26 17:34:17,sflib,STATUS,sfp_ethereum module loaded.,81
+2025-09-26 17:34:17,sflib,STATUS,sfp_etherscan module loaded.,82
+2025-09-26 17:34:17,sflib,STATUS,sfp_filemeta module loaded.,83
+2025-09-26 17:34:17,sflib,STATUS,sfp_flickr module loaded.,84
+2025-09-26 17:34:17,sflib,STATUS,sfp_focsec module loaded.,85
+2025-09-26 17:34:17,sflib,STATUS,sfp_fortinet module loaded.,86
+2025-09-26 17:34:17,sflib,STATUS,sfp_fraudguard module loaded.,87
+2025-09-26 17:34:17,sflib,STATUS,sfp_fsecure_riddler module loaded.,88
+2025-09-26 17:34:17,sflib,STATUS,sfp_fullcontact module loaded.,89
+2025-09-26 17:34:17,sflib,STATUS,sfp_fullhunt module loaded.,90
+2025-09-26 17:34:17,sflib,STATUS,sfp_github module loaded.,91
+2025-09-26 17:34:17,sflib,STATUS,sfp_gleif module loaded.,92
+2025-09-26 17:34:17,sflib,STATUS,sfp_googlemaps module loaded.,93
+2025-09-26 17:34:17,sflib,STATUS,sfp_googleobjectstorage module loaded.,94
+2025-09-26 17:34:17,sflib,STATUS,sfp_googlesafebrowsing module loaded.,95
+2025-09-26 17:34:17,sflib,STATUS,sfp_googlesearch module loaded.,96
+2025-09-26 17:34:17,sflib,STATUS,sfp_gravatar module loaded.,97
+2025-09-26 17:34:17,sflib,STATUS,sfp_grayhatwarfare module loaded.,98
+2025-09-26 17:34:17,sflib,STATUS,sfp_greensnow module loaded.,99
+2025-09-26 17:34:17,sflib,STATUS,sfp_grep_app module loaded.,100
+2025-09-26 17:34:17,sflib,STATUS,sfp_greynoise module loaded.,101
+2025-09-26 17:34:17,sflib,STATUS,sfp_h1nobbdde module loaded.,102
+2025-09-26 17:34:17,sflib,STATUS,sfp_hackertarget module loaded.,103
+2025-09-26 17:34:17,sflib,STATUS,sfp_hashes module loaded.,104
+2025-09-26 17:34:17,sflib,STATUS,sfp_haveibeenpwned module loaded.,105
+2025-09-26 17:34:17,sflib,STATUS,sfp_honeypot module loaded.,106
+2025-09-26 17:34:18,sflib,STATUS,sfp_hosting module loaded.,107
+2025-09-26 17:34:18,sflib,STATUS,sfp_hostio module loaded.,108
+2025-09-26 17:34:18,sflib,STATUS,sfp_hunter module loaded.,109
+2025-09-26 17:34:18,sflib,STATUS,sfp_hybrid_analysis module loaded.,110
+2025-09-26 17:34:18,sflib,STATUS,sfp_iban module loaded.,111
+2025-09-26 17:34:18,sflib,STATUS,sfp_iknowwhatyoudownload module loaded.,112
+2025-09-26 17:34:18,sflib,STATUS,sfp_instagram module loaded.,113
+2025-09-26 17:34:18,sflib,STATUS,sfp_intelx module loaded.,114
+2025-09-26 17:34:18,sflib,STATUS,sfp_intfiles module loaded.,115
+2025-09-26 17:34:18,sflib,STATUS,sfp_ipapico module loaded.,116
+2025-09-26 17:34:18,sflib,STATUS,sfp_ipapicom module loaded.,117
+2025-09-26 17:34:18,sflib,STATUS,sfp_ipinfo module loaded.,118
+2025-09-26 17:34:18,sflib,STATUS,sfp_ipqualityscore module loaded.,119
+2025-09-26 17:34:18,sflib,STATUS,sfp_ipregistry module loaded.,120
+2025-09-26 17:34:18,sflib,STATUS,sfp_ipstack module loaded.,121
+2025-09-26 17:34:18,sflib,STATUS,sfp_isc module loaded.,122
+2025-09-26 17:34:18,sflib,STATUS,sfp_jsonwhoiscom module loaded.,123
+2025-09-26 17:34:18,sflib,STATUS,sfp_junkfiles module loaded.,124
+2025-09-26 17:34:18,sflib,STATUS,sfp_keybase module loaded.,125
+2025-09-26 17:34:18,sflib,STATUS,sfp_koodous module loaded.,126
+2025-09-26 17:34:18,sflib,STATUS,sfp_leakix module loaded.,127
+2025-09-26 17:34:18,sflib,STATUS,sfp_maltiverse module loaded.,128
+2025-09-26 17:34:18,sflib,STATUS,sfp_malwarepatrol module loaded.,129
+2025-09-26 17:34:18,sflib,STATUS,sfp_metadefender module loaded.,130
+2025-09-26 17:34:18,sflib,STATUS,sfp_mnemonic module loaded.,131
+2025-09-26 17:34:18,sflib,STATUS,sfp_multiproxy module loaded.,132
+2025-09-26 17:34:18,sflib,STATUS,sfp_myspace module loaded.,133
+2025-09-26 17:34:18,sflib,STATUS,sfp_nameapi module loaded.,134
+2025-09-26 17:34:19,sflib,STATUS,sfp_names module loaded.,135
+2025-09-26 17:34:19,sflib,STATUS,sfp_networksdb module loaded.,136
+2025-09-26 17:34:19,sflib,STATUS,sfp_neutrinoapi module loaded.,137
+2025-09-26 17:34:19,sflib,STATUS,sfp_numverify module loaded.,138
+2025-09-26 17:34:19,sflib,STATUS,sfp_onioncity module loaded.,139
+2025-09-26 17:34:19,sflib,STATUS,sfp_onionsearchengine module loaded.,140
+2025-09-26 17:34:19,sflib,STATUS,sfp_onyphe module loaded.,141
+2025-09-26 17:34:19,sflib,STATUS,sfp_open_passive_dns_database module loaded.,142
+2025-09-26 17:34:19,sflib,STATUS,sfp_openbugbounty module loaded.,143
+2025-09-26 17:34:19,sflib,STATUS,sfp_opencorporates module loaded.,144
+2025-09-26 17:34:20,sflib,STATUS,sfp_opendns module loaded.,145
+2025-09-26 17:34:20,sflib,STATUS,sfp_opennic module loaded.,146
+2025-09-26 17:34:20,sflib,STATUS,sfp_openphish module loaded.,147
+2025-09-26 17:34:20,sflib,STATUS,sfp_openstreetmap module loaded.,148
+2025-09-26 17:34:20,sflib,STATUS,sfp_pageinfo module loaded.,149
+2025-09-26 17:34:20,sflib,STATUS,sfp_pastebin module loaded.,150
+2025-09-26 17:34:20,sflib,STATUS,sfp_pgp module loaded.,151
+2025-09-26 17:34:20,sflib,STATUS,sfp_phishstats module loaded.,152
+2025-09-26 17:34:20,sflib,STATUS,sfp_phishtank module loaded.,153
+2025-09-26 17:34:20,sflib,STATUS,sfp_phone module loaded.,154
+2025-09-26 17:34:20,sflib,STATUS,sfp_portscan_tcp module loaded.,155
+2025-09-26 17:34:20,sflib,STATUS,sfp_projectdiscovery module loaded.,156
+2025-09-26 17:34:20,sflib,STATUS,sfp_psbdmp module loaded.,157
+2025-09-26 17:34:20,sflib,STATUS,sfp_pulsedive module loaded.,158
+2025-09-26 17:34:20,sflib,STATUS,sfp_punkspider module loaded.,159
+2025-09-26 17:34:20,sflib,STATUS,sfp_quad9 module loaded.,160
+2025-09-26 17:34:20,sflib,STATUS,sfp_recondev module loaded.,161
+2025-09-26 17:34:20,sflib,STATUS,sfp_reversewhois module loaded.,162
+2025-09-26 17:34:20,sflib,STATUS,sfp_ripe module loaded.,163
+2025-09-26 17:34:20,sflib,STATUS,sfp_riskiq module loaded.,164
+2025-09-26 17:34:20,sflib,STATUS,sfp_robtex module loaded.,165
+2025-09-26 17:34:20,sflib,STATUS,sfp_s3bucket module loaded.,166
+2025-09-26 17:34:20,sflib,STATUS,sfp_scylla module loaded.,167
+2025-09-26 17:34:20,sflib,STATUS,sfp_searchcode module loaded.,168
+2025-09-26 17:34:20,sflib,STATUS,sfp_securitytrails module loaded.,169
+2025-09-26 17:34:20,sflib,STATUS,sfp_seon module loaded.,170
+2025-09-26 17:34:20,sflib,STATUS,sfp_shodan module loaded.,171
+2025-09-26 17:34:20,sflib,STATUS,sfp_similar module loaded.,172
+2025-09-26 17:34:20,sflib,STATUS,sfp_skymem module loaded.,173
+2025-09-26 17:34:20,sflib,STATUS,sfp_slideshare module loaded.,174
+2025-09-26 17:34:20,sflib,STATUS,sfp_snov module loaded.,175
+2025-09-26 17:34:20,sflib,STATUS,sfp_social module loaded.,176
+2025-09-26 17:34:20,sflib,STATUS,sfp_sociallinks module loaded.,177
+2025-09-26 17:34:20,sflib,STATUS,sfp_socialprofiles module loaded.,178
+2025-09-26 17:34:20,sflib,STATUS,sfp_sorbs module loaded.,179
+2025-09-26 17:34:20,sflib,STATUS,sfp_spamcop module loaded.,180
+2025-09-26 17:34:20,sflib,STATUS,sfp_spamhaus module loaded.,181
+2025-09-26 17:34:20,sflib,STATUS,sfp_spider module loaded.,182
+2025-09-26 17:34:20,sflib,STATUS,sfp_spur module loaded.,183
+2025-09-26 17:34:21,sflib,STATUS,sfp_spyonweb module loaded.,184
+2025-09-26 17:34:21,sflib,STATUS,sfp_spyse module loaded.,185
+2025-09-26 17:34:21,sflib,STATUS,sfp_sslcert module loaded.,186
+2025-09-26 17:34:21,sflib,STATUS,sfp_stackoverflow module loaded.,187
+2025-09-26 17:34:21,sflib,STATUS,sfp_stevenblack_hosts module loaded.,188
+2025-09-26 17:34:21,sflib,STATUS,sfp_strangeheaders module loaded.,189
+2025-09-26 17:34:21,sflib,STATUS,sfp_subdomain_takeover module loaded.,190
+2025-09-26 17:34:21,sfp_sublist3r,DEBUG,Setting up sfp_sublist3r,191
+2025-09-26 17:34:21,sflib,STATUS,sfp_sublist3r module loaded.,192
+2025-09-26 17:34:21,sflib,STATUS,sfp_surbl module loaded.,193
+2025-09-26 17:34:21,sflib,STATUS,sfp_talosintel module loaded.,194
+2025-09-26 17:34:21,sflib,STATUS,sfp_textmagic module loaded.,195
+2025-09-26 17:34:21,sflib,STATUS,sfp_threatcrowd module loaded.,196
+2025-09-26 17:34:21,sflib,STATUS,sfp_threatfox module loaded.,197
+2025-09-26 17:34:21,sflib,STATUS,sfp_threatminer module loaded.,198
+2025-09-26 17:34:21,sflib,STATUS,sfp_tldsearch module loaded.,199
+2025-09-26 17:34:21,sflib,STATUS,sfp_tool_cmseek module loaded.,200
+2025-09-26 17:34:21,sflib,STATUS,sfp_tool_dnstwist module loaded.,201
+2025-09-26 17:34:21,sflib,STATUS,sfp_tool_nbtscan module loaded.,202
+2025-09-26 17:34:21,sflib,STATUS,sfp_tool_nmap module loaded.,203
+2025-09-26 17:34:21,sflib,STATUS,sfp_tool_nuclei module loaded.,204
+2025-09-26 17:34:21,sflib,STATUS,sfp_tool_onesixtyone module loaded.,205
+2025-09-26 17:34:21,sflib,STATUS,sfp_tool_retirejs module loaded.,206
+2025-09-26 17:34:21,sflib,STATUS,sfp_tool_snallygaster module loaded.,207
+2025-09-26 17:34:21,sflib,STATUS,sfp_tool_testsslsh module loaded.,208
+2025-09-26 17:34:21,sflib,STATUS,sfp_tool_trufflehog module loaded.,209
+2025-09-26 17:34:21,sflib,STATUS,sfp_tool_wafw00f module loaded.,210
+2025-09-26 17:34:21,sflib,STATUS,sfp_tool_wappalyzer module loaded.,211
+2025-09-26 17:34:21,sflib,STATUS,sfp_tool_whatweb module loaded.,212
+2025-09-26 17:34:21,sflib,STATUS,sfp_torch module loaded.,213
+2025-09-26 17:34:21,sflib,STATUS,sfp_torexits module loaded.,214
+2025-09-26 17:34:21,sflib,STATUS,sfp_trashpanda module loaded.,215
+2025-09-26 17:34:21,sflib,STATUS,sfp_trumail module loaded.,216
+2025-09-26 17:34:21,sflib,STATUS,sfp_twilio module loaded.,217
+2025-09-26 17:34:21,sflib,STATUS,sfp_twitter module loaded.,218
+2025-09-26 17:34:21,sflib,STATUS,sfp_uceprotect module loaded.,219
+2025-09-26 17:34:21,sflib,STATUS,sfp_urlscan module loaded.,220
+2025-09-26 17:34:21,sflib,STATUS,sfp_venmo module loaded.,221
+2025-09-26 17:34:22,sflib,STATUS,sfp_viewdns module loaded.,222
+2025-09-26 17:34:22,sflib,STATUS,sfp_virustotal module loaded.,223
+2025-09-26 17:34:22,sflib,STATUS,sfp_voipbl module loaded.,224
+2025-09-26 17:34:22,sflib,STATUS,sfp_vxvault module loaded.,225
+2025-09-26 17:34:22,sflib,STATUS,sfp_webanalytics module loaded.,226
+2025-09-26 17:34:22,sflib,STATUS,sfp_webframework module loaded.,227
+2025-09-26 17:34:22,sflib,STATUS,sfp_webserver module loaded.,228
+2025-09-26 17:34:22,sflib,STATUS,sfp_whatcms module loaded.,229
+2025-09-26 17:34:22,sflib,STATUS,sfp_whois module loaded.,230
+2025-09-26 17:34:22,sflib,STATUS,sfp_whoisology module loaded.,231
+2025-09-26 17:34:22,sflib,STATUS,sfp_whoxy module loaded.,232
+2025-09-26 17:34:22,sflib,STATUS,sfp_wigle module loaded.,233
+2025-09-26 17:34:22,sflib,STATUS,sfp_wikileaks module loaded.,234
+2025-09-26 17:34:22,sflib,STATUS,sfp_wikipediaedits module loaded.,235
+2025-09-26 17:34:22,sflib,STATUS,sfp_xforce module loaded.,236
+2025-09-26 17:34:22,sflib,STATUS,sfp_yandexdns module loaded.,237
+2025-09-26 17:34:22,sflib,STATUS,sfp_zetalytics module loaded.,238
+2025-09-26 17:34:22,sflib,STATUS,sfp_zoneh module loaded.,239
+2025-09-26 17:34:23,sfp_binaryedge,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",240
+2025-09-26 17:34:23,sfp_binaryedge,ERROR,You enabled sfp_binaryedge but did not set an API key!,241
+2025-09-26 17:34:23,sfp_bingsharedip,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",242
+2025-09-26 17:34:23,sfp_bingsharedip,ERROR,You enabled sfp_bingsharedip but did not set a Bing API key!,243
+2025-09-26 17:34:23,sfp_viewdns,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",244
+2025-09-26 17:34:23,sfp_viewdns,ERROR,You enabled sfp_viewdns but did not set an API key!,245
+2025-09-26 17:34:23,sfp_xforce,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",246
+2025-09-26 17:34:23,sfp_xforce,ERROR,You enabled sfp_xforce but did not set an API key/password!,247
+2025-09-26 17:34:23,sfp_vxvault,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",248
+2025-09-26 17:34:23,sfp_vxvault,DEBUG,Checking maliciousness of 192.168.142.134 (IP_ADDRESS) with VXVault.net,249
+2025-09-26 17:34:23,sfp_virustotal,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",250
+2025-09-26 17:34:23,sfp_virustotal,ERROR,You enabled sfp_virustotal but did not set an API key!,251
+2025-09-26 17:34:23,sfp_blocklistde,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",252
+2025-09-26 17:34:23,sfp_blocklistde,DEBUG,Checking maliciousness of 192.168.142.134 (IP_ADDRESS) with blocklist.de,253
+2025-09-26 17:34:23,sfp_circllu,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",254
+2025-09-26 17:34:23,sfp_circllu,ERROR,You enabled sfp_circllu but did not set an credentials!,255
+2025-09-26 17:34:23,sfp_botscout,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",256
+2025-09-26 17:34:23,sfp_botscout,STATUS,You enabled sfp_botscout but did not set an API key! Queries will be limited to 100 per day.,257
+2025-09-26 17:34:23,sflib,STATUS,"Fetching (GET): https://botscout.com/test/?ip=192.168.142.134&key= (proxy=None, user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:62.0) Gecko/20100101 Firefox/62.0, timeout=5, cookies=None)",258
+2025-09-26 17:34:23,sfp_c99,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",259
+2025-09-26 17:34:23,sfp_c99,ERROR,"You enabled sfp_c99, but did not set an API key!",260
+2025-09-26 17:34:23,sfp_censys,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",261
+2025-09-26 17:34:23,sfp_censys,ERROR,You enabled sfp_censys but did not set an API uid/secret!,262
+2025-09-26 17:34:23,sfp_bgpview,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",263
+2025-09-26 17:34:23,sflib,STATUS,"Fetching (GET): https://api.bgpview.io/ip/192.168.142.134 (proxy=None, user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:62.0) Gecko/20100101 Firefox/62.0, timeout=5, cookies=None)",264
+2025-09-26 17:34:23,sfp_robtex,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",265
+2025-09-26 17:34:23,sflib,STATUS,"Fetching (GET): https://freeapi.robtex.com/ipquery/192.168.142.134 (proxy=None, user-agent=SpiderFoot, timeout=5, cookies=None)",266
+2025-09-26 17:34:23,sfp__stor_db,DEBUG,Storing an event: ROOT,267
+2025-09-26 17:34:23,sfp__stor_db,DEBUG,Storing an event: IP_ADDRESS,268
+2025-09-26 17:34:23,sflib,STATUS,Fetched https://api.bgpview.io/ip/192.168.142.134 (9020 bytes in 0.7678961753845215s),269
+2025-09-26 17:34:24,sflib,STATUS,Fetched https://botscout.com/test/?ip=192.168.142.134&key= (0 bytes in 1.1521062850952148s),270
+2025-09-26 17:34:24,sfp_botscout,ERROR,No response from BotScout.,271
+2025-09-26 17:34:24,sfp_uceprotect,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",272
+2025-09-26 17:34:24,sfp_uceprotect,DEBUG,Checking UCEPROTECT blacklist: 134.142.168.192.dnsbl-1.uceprotect.net,273
+2025-09-26 17:34:24,sflib,STATUS,Fetched https://freeapi.robtex.com/ipquery/192.168.142.134 (132 bytes in 1.1509051322937012s),274
+2025-09-26 17:34:24,sfp_robtex,STATUS,No results from robtex API for 192.168.142.134,275
+2025-09-26 17:34:24,sfp_customfeed,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",276
+2025-09-26 17:34:24,sfp_customfeed,ERROR,You enabled sfp_customfeed but defined no custom feed URL!,277
+2025-09-26 17:34:24,sfp_dnsresolve,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",278
+2025-09-26 17:34:24,sfp_zoneh,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",279
+2025-09-26 17:34:24,sfp_emergingthreats,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",280
+2025-09-26 17:34:24,sfp_emergingthreats,DEBUG,Checking maliciousness of 192.168.142.134 with EmergingThreats.net,281
+2025-09-26 17:34:24,sfp_torexits,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",282
+2025-09-26 17:34:24,sfp_uceprotect,DEBUG,Checking UCEPROTECT blacklist: 134.142.168.192.dnsbl-2.uceprotect.net,283
+2025-09-26 17:34:25,sfp_dnsresolve,DEBUG,"Received event, RAW_RIR_DATA, from sfp_robtex",284
+2025-09-26 17:34:25,sfp_focsec,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",285
+2025-09-26 17:34:25,sfp_focsec,ERROR,You enabled sfp_focsec but did not set an API key!,286
+2025-09-26 17:34:25,sfp_cleantalk,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",287
+2025-09-26 17:34:25,sfp_cleantalk,DEBUG,Checking maliciousness of 192.168.142.134 with CleanTalk Spam List,288
+2025-09-26 17:34:25,sfp__stor_db,DEBUG,Storing an event: RAW_RIR_DATA,289
+2025-09-26 17:34:25,sfp_bgpview,DEBUG,Error processing JSON response from BGPView: Expecting value: line 1 column 1 (char 0),290
+2025-09-26 17:34:25,sfp_bgpview,STATUS,No results found for IP address 192.168.142.134,291
+2025-09-26 17:34:25,sfp_dnsdb,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",292
+2025-09-26 17:34:25,sfp_dnsdb,ERROR,You enabled sfp_dnsdb but did not set an API key!,293
+2025-09-26 17:34:25,sfp_cybercrimetracker,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",294
+2025-09-26 17:34:25,sfp_cybercrimetracker,DEBUG,Checking maliciousness of 192.168.142.134 (IP_ADDRESS) with CyberCrime-Tracker.net,295
+2025-09-26 17:34:26,sfp_fsecure_riddler,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",296
+2025-09-26 17:34:26,sfp_fsecure_riddler,ERROR,You enabled sfp_fsecure_riddler but did not set an API username/password!,297
+2025-09-26 17:34:26,sfp_fraudguard,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",298
+2025-09-26 17:34:26,sfp_fraudguard,ERROR,You enabled sfp_fraudguard but did not set an API username/password!,299
+2025-09-26 17:34:26,sfp_talosintel,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",300
+2025-09-26 17:34:26,sfp_talosintel,DEBUG,Checking maliciousness of 192.168.142.134 (IP_ADDRESS) with Talos Intelligence,301
+2025-09-26 17:34:26,sflib,STATUS,"Fetching (GET): https://snort.org/downloads/ip-block-list (proxy=None, user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:62.0) Gecko/20100101 Firefox/62.0, timeout=5, cookies=None)",302
+2025-09-26 17:34:26,sfp_googlesafebrowsing,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",303
+2025-09-26 17:34:26,sfp_googlesafebrowsing,ERROR,You enabled sfp_googlesafebrowsing but did not set an API key!,304
+2025-09-26 17:34:26,sfp_abstractapi,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",305
+2025-09-26 17:34:26,sfp_abstractapi,ERROR,You enabled sfp_abstractapi but did not set any API keys!,306
+2025-09-26 17:34:26,sfp_greensnow,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",307
+2025-09-26 17:34:26,sfp_greensnow,DEBUG,Checking maliciousness of 192.168.142.134 (IP_ADDRESS) with greensnow.co,308
+2025-09-26 17:34:26,sfp_badpackets,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",309
+2025-09-26 17:34:26,sfp_badpackets,ERROR,You enabled sfp_badpackets but did not set an API key!,310
+2025-09-26 17:34:26,sfp_abusech,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",311
+2025-09-26 17:34:26,sfp_abusech,DEBUG,Checking maliciousness of 192.168.142.134 (IP_ADDRESS) with Abuse.ch Feodo Tracker,312
+2025-09-26 17:34:26,sfp_alienvault,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",313
+2025-09-26 17:34:26,sfp_alienvault,ERROR,You enabled sfp_alienvault but did not set an API key!,314
+2025-09-26 17:34:26,sfp_tool_onesixtyone,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",315
+2025-09-26 17:34:26,sfp_tool_onesixtyone,ERROR,You enabled sfp_tool_onesixtyone but did not set a path to the tool!,316
+2025-09-26 17:34:26,sfp_dronebl,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",317
+2025-09-26 17:34:26,sfp_dronebl,DEBUG,Checking DroneBL blacklist: 134.142.168.192.dnsbl.dronebl.org,318
+2025-09-26 17:34:26,sfp_abusech,DEBUG,Checking maliciousness of 192.168.142.134 (IP_ADDRESS) with Abuse.ch SSL Blacklist,319
+2025-09-26 17:34:26,sfp_abusech,DEBUG,Checking maliciousness of 192.168.142.134 (IP_ADDRESS) with Abuse.ch URL Haus,320
+2025-09-26 17:34:26,sfp_abusix,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",321
+2025-09-26 17:34:26,sfp_abusix,ERROR,You enabled sfp_abusix but did not set an API key!,322
+2025-09-26 17:34:26,sfp_wikipediaedits,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",323
+2025-09-26 17:34:26,sflib,STATUS,"Fetching (GET): https://en.wikipedia.org/w/api.php?action=feedcontributions&user=XXX (proxy=None, user-agent=SpiderFoot, timeout=5, cookies=None)",324
+2025-09-26 17:34:26,sflib,STATUS,Fetched https://snort.org/downloads/ip-block-list (9124 bytes in 0.27785277366638184s),325
+2025-09-26 17:34:26,sfp_talosintel,ERROR,Unexpected HTTP response code 403 from Talos Intelligence.,326
+2025-09-26 17:34:26,sfp_fortinet,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",327
+2025-09-26 17:34:26,sflib,STATUS,"Fetching (GET): https://www.fortiguard.com/search?q=192.168.142.134&engine=8 (proxy=None, user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:62.0) Gecko/20100101 Firefox/62.0, timeout=5, cookies=None)",328
+2025-09-26 17:34:26,sfp_greynoise,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",329
+2025-09-26 17:34:26,sfp_greynoise,ERROR,You enabled sfp_greynoise but did not set an API key!,330
+2025-09-26 17:34:26,sfp_tool_testsslsh,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",331
+2025-09-26 17:34:26,sfp_tool_testsslsh,ERROR,You enabled sfp_tool_testsslsh but did not set a path to the tool!,332
+2025-09-26 17:34:26,sfp_hackertarget,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",333
+2025-09-26 17:34:26,sflib,STATUS,"Fetching (GET): https://api.hackertarget.com/reverseiplookup/?q=192.168.142.134 (proxy=None, user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:62.0) Gecko/20100101 Firefox/62.0, timeout=5, cookies=None)",334
+2025-09-26 17:34:26,sflib,STATUS,Fetched https://en.wikipedia.org/w/api.php?action=feedcontributions&user=XXX (435 bytes in 0.6741187572479248s),335
+2025-09-26 17:34:26,sfp_abuseipdb,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",336
+2025-09-26 17:34:26,sfp_abuseipdb,ERROR,You enabled sfp_abuseipdb but did not set an API key!,337
+2025-09-26 17:34:26,sfp_dnsneighbor,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",338
+2025-09-26 17:34:26,sfp_dnsneighbor,DEBUG,"Lookaside max: 192.168.142.128, min: 192.168.142.143",339
+2025-09-26 17:34:26,sfp_dnsneighbor,DEBUG,Attempting look-aside lookup of: 192.168.142.128,340
+2025-09-26 17:34:26,sfp_dnsneighbor,DEBUG,Look-aside resolve for 192.168.142.128 failed.,341
+2025-09-26 17:34:26,sfp_dnsneighbor,DEBUG,Attempting look-aside lookup of: 192.168.142.129,342
+2025-09-26 17:34:26,sfp_dnsneighbor,DEBUG,Look-aside resolve for 192.168.142.129 failed.,343
+2025-09-26 17:34:26,sfp_dnsneighbor,DEBUG,Attempting look-aside lookup of: 192.168.142.130,344
+2025-09-26 17:34:26,sfp_dnsneighbor,DEBUG,Look-aside resolve for 192.168.142.130 failed.,345
+2025-09-26 17:34:26,sfp_dnsneighbor,DEBUG,Attempting look-aside lookup of: 192.168.142.131,346
+2025-09-26 17:34:26,sfp_dnsneighbor,DEBUG,Look-aside resolve for 192.168.142.131 failed.,347
+2025-09-26 17:34:26,sfp_dnsneighbor,DEBUG,Attempting look-aside lookup of: 192.168.142.132,348
+2025-09-26 17:34:26,sfp_dnsneighbor,DEBUG,Look-aside resolve for 192.168.142.132 failed.,349
+2025-09-26 17:34:26,sfp_dnsneighbor,DEBUG,Attempting look-aside lookup of: 192.168.142.133,350
+2025-09-26 17:34:26,sfp_dnsneighbor,DEBUG,Look-aside resolve for 192.168.142.133 failed.,351
+2025-09-26 17:34:26,sfp_dnsneighbor,DEBUG,Attempting look-aside lookup of: 192.168.142.134,352
+2025-09-26 17:34:26,sfp_dnsneighbor,DEBUG,Attempting look-aside lookup of: 192.168.142.135,353
+2025-09-26 17:34:26,sfp_dnsneighbor,DEBUG,Look-aside resolve for 192.168.142.135 failed.,354
+2025-09-26 17:34:26,sfp_dnsneighbor,DEBUG,Attempting look-aside lookup of: 192.168.142.136,355
+2025-09-26 17:34:26,sfp_dnsneighbor,DEBUG,Look-aside resolve for 192.168.142.136 failed.,356
+2025-09-26 17:34:26,sfp_dnsneighbor,DEBUG,Attempting look-aside lookup of: 192.168.142.137,357
+2025-09-26 17:34:26,sfp_dnsneighbor,DEBUG,Look-aside resolve for 192.168.142.137 failed.,358
+2025-09-26 17:34:26,sfp_dnsneighbor,DEBUG,Attempting look-aside lookup of: 192.168.142.138,359
+2025-09-26 17:34:26,sfp_dnsneighbor,DEBUG,Look-aside resolve for 192.168.142.138 failed.,360
+2025-09-26 17:34:26,sfp_dnsneighbor,DEBUG,Attempting look-aside lookup of: 192.168.142.139,361
+2025-09-26 17:34:26,sfp_dnsneighbor,DEBUG,Look-aside resolve for 192.168.142.139 failed.,362
+2025-09-26 17:34:26,sfp_dnsneighbor,DEBUG,Attempting look-aside lookup of: 192.168.142.140,363
+2025-09-26 17:34:26,sfp_dnsneighbor,DEBUG,Look-aside resolve for 192.168.142.140 failed.,364
+2025-09-26 17:34:26,sfp_dnsneighbor,DEBUG,Attempting look-aside lookup of: 192.168.142.141,365
+2025-09-26 17:34:26,sfp_dnsneighbor,DEBUG,Look-aside resolve for 192.168.142.141 failed.,366
+2025-09-26 17:34:26,sfp_dnsneighbor,DEBUG,Attempting look-aside lookup of: 192.168.142.142,367
+2025-09-26 17:34:26,sfp_dnsneighbor,DEBUG,Look-aside resolve for 192.168.142.142 failed.,368
+2025-09-26 17:34:26,sfp_dnsneighbor,DEBUG,Attempting look-aside lookup of: 192.168.142.143,369
+2025-09-26 17:34:26,sfp_dnsneighbor,DEBUG,Look-aside resolve for 192.168.142.143 failed.,370
+2025-09-26 17:34:26,sfp_malwarepatrol,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",371
+2025-09-26 17:34:26,sfp_malwarepatrol,ERROR,You enabled sfp_malwarepatrol but did not provide a receipt ID!,372
+2025-09-26 17:34:26,sfp_tool_nmap,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",373
+2025-09-26 17:34:26,sfp_tool_nmap,ERROR,You enabled sfp_tool_nmap but did not set a path to the tool!,374
+2025-09-26 17:34:26,sfp_ipinfo,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",375
+2025-09-26 17:34:26,sfp_ipinfo,ERROR,You enabled sfp_ipinfo but did not set an API key!,376
+2025-09-26 17:34:26,sfp_tool_nbtscan,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",377
+2025-09-26 17:34:26,sfp_tool_nbtscan,ERROR,You enabled sfp_tool_nbtscan but did not set a path to the tool!,378
+2025-09-26 17:34:26,sfp_honeypot,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",379
+2025-09-26 17:34:26,sfp_honeypot,ERROR,You enabled sfp_honeypot but did not set an API key!,380
+2025-09-26 17:34:26,sfp_isc,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",381
+2025-09-26 17:34:26,sflib,STATUS,"Fetching (GET): https://isc.sans.edu/api/ip/192.168.142.134 (proxy=None, user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:62.0) Gecko/20100101 Firefox/62.0, timeout=5, cookies=None)",382
+2025-09-26 17:34:27,sflib,STATUS,Fetched https://api.hackertarget.com/reverseiplookup/?q=192.168.142.134 (51 bytes in 0.9355177879333496s),383
+2025-09-26 17:34:27,sfp_hackertarget,DEBUG,Found 1 on 192.168.142.134,384
+2025-09-26 17:34:27,sfp_voipbl,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",385
+2025-09-26 17:34:27,sfp_voipbl,DEBUG,Checking maliciousness of 192.168.142.134 (IP_ADDRESS) with VoIP Blacklist (VoIPBL),386
+2025-09-26 17:34:27,sflib,STATUS,Fetched https://isc.sans.edu/api/ip/192.168.142.134 (884 bytes in 0.8328044414520264s),387
+2025-09-26 17:34:27,sfp_isc,ERROR,Unexpected HTTP response code 403 from ISC.,388
+2025-09-26 17:34:27,sfp_cinsscore,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",389
+2025-09-26 17:34:27,sfp_cinsscore,DEBUG,Checking maliciousness of 192.168.142.134 with cinsscore.com,390
+2025-09-26 17:34:27,sfp_alienvaultiprep,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",391
+2025-09-26 17:34:27,sfp_alienvaultiprep,DEBUG,Checking maliciousness of 192.168.142.134 (IP_ADDRESS) with AlienVault IP Reputation Database,392
+2025-09-26 17:34:27,sfp_hosting,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",393
+2025-09-26 17:34:27,sfp_ipstack,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",394
+2025-09-26 17:34:27,sfp_ipstack,ERROR,You enabled sfp_ipstack but did not set an API key!,395
+2025-09-26 17:34:27,sfp_mnemonic,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",396
+2025-09-26 17:34:27,sflib,STATUS,"Fetching (GET): https://api.mnemonic.no/pdns/v3/192.168.142.134?limit=500&offset=0 (proxy=None, user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:62.0) Gecko/20100101 Firefox/62.0, timeout=30, cookies=None)",397
+2025-09-26 17:34:28,sflib,ERROR,Failed to connect to https://www.fortiguard.com/search?q=192.168.142.134&engine=8,398
+2025-09-26 17:34:28,sfp_fortinet,ERROR,Unexpected HTTP response code None from FortiGuard Antispam.,399
+2025-09-26 17:34:28,sfp_ipqualityscore,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",400
+2025-09-26 17:34:28,sfp_ipqualityscore,ERROR,You enabled sfp_ipqualityscore but did not set an API Key!,401
+2025-09-26 17:34:28,sfp_ipapico,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",402
+2025-09-26 17:34:28,sflib,STATUS,"Fetching (GET): https://ipapi.co/192.168.142.134/json/ (proxy=None, user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:62.0) Gecko/20100101 Firefox/62.0, timeout=5, cookies=None)",403
+2025-09-26 17:34:28,sflib,STATUS,Fetched https://ipapi.co/192.168.142.134/json/ (132 bytes in 0.8843674659729004s),404
+2025-09-26 17:34:29,sfp_maltiverse,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",405
+2025-09-26 17:34:29,sflib,STATUS,"Fetching (GET): https://api.maltiverse.com/ip/192.168.142.134 (proxy=None, user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:62.0) Gecko/20100101 Firefox/62.0, timeout=15, cookies=None)",406
+2025-09-26 17:34:30,sfp_intelx,ERROR,You enabled sfp_intelx but did not set an API key and/or base URL!,407
+2025-09-26 17:34:30,sfp_onyphe,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",408
+2025-09-26 17:34:30,sfp_onyphe,ERROR,"You enabled sfp_onyphe, but did not set an API key!",409
+2025-09-26 17:34:30,sfp_hybrid_analysis,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",410
+2025-09-26 17:34:30,sflib,STATUS,"Fetching (POST): https://www.hybrid-analysis.com/api/v2/search/terms (proxy=None, user-agent=Falcon Sandbox, timeout=15, cookies=None)",411
+2025-09-26 17:34:30,sflib,STATUS,Fetched https://api.mnemonic.no/pdns/v3/192.168.142.134?limit=500&offset=0 (1748 bytes in 2.471768617630005s),412
+2025-09-26 17:34:30,sflib,STATUS,Fetched https://api.maltiverse.com/ip/192.168.142.134 (73 bytes in 1.132868766784668s),413
+2025-09-26 17:34:30,sfp_maltiverse,ERROR,Bad request. 192.168.142.134 is not a valid IP Address,414
+2025-09-26 17:34:30,sfp_ipapicom,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",415
+2025-09-26 17:34:30,sfp_ipapicom,ERROR,You enabled sfp_ipapicom but did not set an API key!,416
+2025-09-26 17:34:30,sfp_leakix,DEBUG,"You enabled sfp_leakix but did not set an API key, results are limited",417
+2025-09-26 17:34:30,sfp_leakix,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",418
+2025-09-26 17:34:30,sflib,STATUS,"Fetching (GET): https://leakix.net/host/192.168.142.134 (proxy=None, user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:62.0) Gecko/20100101 Firefox/62.0, timeout=15, cookies=None)",419
+2025-09-26 17:34:31,sflib,STATUS,Fetched https://www.hybrid-analysis.com/api/v2/search/terms (39 bytes in 0.6598877906799316s),420
+2025-09-26 17:34:31,sfp_mnemonic,STATUS,Retrieved 5 of 5 results,421
+2025-09-26 17:34:31,sfp_mnemonic,DEBUG,"Record 192.168.142.134 found for device-local-1f1d82af-4734-4dcf-a8b0-21c1a95b103a.remotewd.com is too old, skipping.",422
+2025-09-26 17:34:31,sfp_mnemonic,DEBUG,"Record 192.168.142.134 found for device-local-5706fac0-131c-4b90-8831-daff9407ec9c.remotewd.com is too old, skipping.",423
+2025-09-26 17:34:31,sfp_mnemonic,DEBUG,"Record 192.168.142.134 found for device-local-9f7baf02-28b0-4ecf-aea9-380b2c1ad7b4.remotewd.com is too old, skipping.",424
+2025-09-26 17:34:31,sfp_mnemonic,DEBUG,"Record 192.168.142.134 found for student.on3cx.de is too old, skipping.",425
+2025-09-26 17:34:31,sfp_mnemonic,DEBUG,"Record 192.168.142.134 found for 6vrvq2qy43.dattolocal.net is too old, skipping.",426
+2025-09-26 17:34:31,sflib,STATUS,"Fetching (GET): https://api.mnemonic.no/pdns/v3/192.168.142.134?limit=500&offset=500 (proxy=None, user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:62.0) Gecko/20100101 Firefox/62.0, timeout=30, cookies=None)",427
+2025-09-26 17:34:31,sflib,STATUS,Fetched https://leakix.net/host/192.168.142.134 (17 bytes in 1.4732344150543213s),428
+2025-09-26 17:34:32,sfp_hybrid_analysis,ERROR,Failed to retrieve content from Hybrid Analysis: Unexpected response status 404,429
+2025-09-26 17:34:32,sfp_hybrid_analysis,DEBUG,No information found for192.168.142.134,430
+2025-09-26 17:34:32,sfp_iknowwhatyoudownload,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",431
+2025-09-26 17:34:32,sfp_iknowwhatyoudownload,ERROR,You enabled sfp_iknowwhatyoudownload but did not set an API key!,432
+2025-09-26 17:34:32,sfp_ipregistry,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",433
+2025-09-26 17:34:32,sfp_ipregistry,ERROR,You enabled sfp_ipregistry but did not set an API key!,434
+2025-09-26 17:34:32,sfp_networksdb,ERROR,You enabled sfp_networksdb but did not set an API key!,435
+2025-09-26 17:34:32,sfp_metadefender,ERROR,You enabled sfp_metadefender but did not set an API key!,436
+2025-09-26 17:34:32,sfp_multiproxy,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",437
+2025-09-26 17:34:32,sfp_multiproxy,DEBUG,Checking maliciousness of 192.168.142.134 (IP_ADDRESS) with multiproxy.org open proxy list,438
+2025-09-26 17:34:32,sfp_neutrinoapi,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",439
+2025-09-26 17:34:32,sfp_neutrinoapi,ERROR,You enabled sfp_neutrinoapi but did not set an API key!,440
+2025-09-26 17:34:32,sfp_phishstats,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",441
+2025-09-26 17:34:32,sflib,STATUS,"Fetching (GET): https://phishstats.info:2096/api/phishing?_where=%28ip%2Ceq%2C192.168.142.134%29&_size=1 (proxy=None, user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:62.0) Gecko/20100101 Firefox/62.0, timeout=15, cookies=None)",442
+2025-09-26 17:34:32,sfp_leakix,ERROR,Failed to retrieve content from LeakIX,443
+2025-09-26 17:34:32,sfp_leakix,DEBUG,No information found for host 192.168.142.134,444
+2025-09-26 17:34:32,sfp_portscan_tcp,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",445
+2025-09-26 17:34:32,sfp_portscan_tcp,STATUS,Scanning 49 ports on 192.168.142.134,446
+2025-09-26 17:34:32,sfp_portscan_tcp,STATUS,Spawning thread to check port: 138 on 192.168.142.134,447
+2025-09-26 17:34:32,sfp_portscan_tcp,STATUS,Spawning thread to check port: 139 on 192.168.142.134,448
+2025-09-26 17:34:32,sfp_portscan_tcp,STATUS,Spawning thread to check port: 5902 on 192.168.142.134,449
+2025-09-26 17:34:32,sfp_portscan_tcp,STATUS,Spawning thread to check port: 53 on 192.168.142.134,450
+2025-09-26 17:34:32,sfp_portscan_tcp,STATUS,Spawning thread to check port: 23 on 192.168.142.134,451
+2025-09-26 17:34:32,sfp_portscan_tcp,STATUS,Spawning thread to check port: 88 on 192.168.142.134,452
+2025-09-26 17:34:32,sfp_portscan_tcp,STATUS,Spawning thread to check port: 8888 on 192.168.142.134,453
+2025-09-26 17:34:32,sfp_portscan_tcp,STATUS,Spawning thread to check port: 636 on 192.168.142.134,454
+2025-09-26 17:34:32,sfp_portscan_tcp,STATUS,Spawning thread to check port: 1521 on 192.168.142.134,455
+2025-09-26 17:34:32,sfp_portscan_tcp,STATUS,Spawning thread to check port: 79 on 192.168.142.134,456
+2025-09-26 17:34:33,sflib,STATUS,Fetched https://api.mnemonic.no/pdns/v3/192.168.142.134?limit=500&offset=500 (221 bytes in 2.3973491191864014s),457
+2025-09-26 17:34:34,sflib,STATUS,Fetched https://phishstats.info:2096/api/phishing?_where=%28ip%2Ceq%2C192.168.142.134%29&_size=1 (9242 bytes in 1.9770066738128662s),458
+2025-09-26 17:34:34,sfp_phishstats,DEBUG,No information found from PhishStats for 192.168.142.134.,459
+2025-09-26 17:34:34,sfp_pulsedive,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",460
+2025-09-26 17:34:34,sfp_pulsedive,ERROR,You enabled sfp_pulsedive but did not set an API key!,461
+2025-09-26 17:34:34,sfp_ripe,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",462
+2025-09-26 17:34:34,sflib,STATUS,"Fetching (GET): https://stat.ripe.net/data/network-info/data.json?resource=192.168.142.134 (proxy=None, user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:62.0) Gecko/20100101 Firefox/62.0, timeout=5, cookies=None)",463
+2025-09-26 17:34:34,sfp_mnemonic,STATUS,No results found for 192.168.142.134,464
+2025-09-26 17:34:34,sfp_mnemonic,STATUS,No passive DNS data found for 192.168.142.134,465
+2025-09-26 17:34:34,sfp_riskiq,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",466
+2025-09-26 17:34:34,sfp_riskiq,ERROR,You enabled sfp_riskiq but did not set an credentials!,467
+2025-09-26 17:34:34,sfp_securitytrails,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",468
+2025-09-26 17:34:34,sfp_securitytrails,ERROR,You enabled sfp_securitytrails but did not set an API uid/secret!,469
+2025-09-26 17:34:34,sfp_seon,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",470
+2025-09-26 17:34:34,sfp_seon,ERROR,You enabled sfp_seon but did not set an API key!,471
+2025-09-26 17:34:34,sfp_shodan,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",472
+2025-09-26 17:34:34,sfp_shodan,ERROR,You enabled sfp_shodan but did not set an API key!,473
+2025-09-26 17:34:34,sfp_sorbs,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",474
+2025-09-26 17:34:34,sfp_sorbs,DEBUG,Checking SORBS blacklist: 134.142.168.192.dnsbl.sorbs.net,475
+2025-09-26 17:34:34,sfp_spur,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",476
+2025-09-26 17:34:34,sfp_spur,ERROR,You enabled sfp_spur but did not set an API key!,477
+2025-09-26 17:34:34,sfp_spamcop,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",478
+2025-09-26 17:34:34,sfp_spamcop,DEBUG,Checking SpamCop blacklist: 134.142.168.192.bl.spamcop.net,479
+2025-09-26 17:34:34,sfp_spamhaus,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",480
+2025-09-26 17:34:34,sfp_spamhaus,DEBUG,Checking Spamhaus Zen blacklist: 134.142.168.192.zen.spamhaus.org,481
+2025-09-26 17:34:34,sfp_spyonweb,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",482
+2025-09-26 17:34:34,sfp_spyonweb,ERROR,You enabled sfp_spyonweb but did not set an API key!,483
+2025-09-26 17:34:34,sfp_spyse,ERROR,You enabled sfp_spyse but did not set an API key!,484
+2025-09-26 17:34:34,sfp_sslcert,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",485
+2025-09-26 17:34:34,sfp_sslcert,DEBUG,Testing SSL for: 192.168.142.134:443,486
+2025-09-26 17:34:34,sfp_sslcert,STATUS,Unable to SSL-connect to 192.168.142.134 ([Errno 111] Connection refused),487
+2025-09-26 17:34:34,sfp_tool_nuclei,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",488
+2025-09-26 17:34:34,sfp_tool_nuclei,ERROR,You enabled sfp_tool_nuclei but did not set a path to the tool and/or templates!,489
+2025-09-26 17:34:34,sfp_threatfox,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",490
+2025-09-26 17:34:34,sflib,STATUS,"Fetching (POST): https://threatfox-api.abuse.ch/api/v1/ (proxy=None, user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:62.0) Gecko/20100101 Firefox/62.0, timeout=5, cookies=None)",491
+2025-09-26 17:34:35,sflib,STATUS,Fetched https://stat.ripe.net/data/network-info/data.json?resource=192.168.142.134 (359 bytes in 1.3700478076934814s),492
+2025-09-26 17:34:35,sflib,STATUS,"Fetching (GET): https://stat.ripe.net/data/whois/data.json?resource= (proxy=None, user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:62.0) Gecko/20100101 Firefox/62.0, timeout=5, cookies=None)",493
+2025-09-26 17:34:35,sflib,STATUS,Fetched https://threatfox-api.abuse.ch/api/v1/ (25 bytes in 0.856919527053833s),494
+2025-09-26 17:34:36,sfp_threatfox,ERROR,Unexpected reply from ThreatFox: 401,495
+2025-09-26 17:34:36,sfp_surbl,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",496
+2025-09-26 17:34:36,sfp_surbl,DEBUG,Checking SURBL blacklist: 134.142.168.192.multi.surbl.org,497
+2025-09-26 17:34:36,sflib,STATUS,Fetched https://stat.ripe.net/data/whois/data.json?resource= (431 bytes in 1.352405309677124s),498
+2025-09-26 17:34:36,sfp_ripe,DEBUG,Error processing JSON response: list index out of range,499
+2025-09-26 17:34:36,sfp_ripe,DEBUG,Could not identify BGP AS for ,500
+2025-09-26 17:34:36,sfp_threatcrowd,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",501
+2025-09-26 17:34:36,sflib,STATUS,"Fetching (GET): https://www.threatcrowd.org/searchApi/v2/ip/report/?ip=192.168.142.134 (proxy=None, user-agent=SpiderFoot, timeout=5, cookies=None)",502
+2025-09-26 17:34:37,sfp_threatminer,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",503
+2025-09-26 17:34:37,sflib,STATUS,"Fetching (GET): https://api.threatminer.org/v2/host.php?q=192.168.142.134&rt=2 (proxy=None, user-agent=SpiderFoot, timeout=10, cookies=None)",504
+2025-09-26 17:34:37,sflib,ERROR,Failed to connect to https://www.threatcrowd.org/searchApi/v2/ip/report/?ip=192.168.142.134,505
+2025-09-26 17:34:37,sfp_threatcrowd,STATUS,No ThreatCrowd info found for 192.168.142.134,506
+2025-09-26 17:34:37,sfp_email,DEBUG,"Received event, RAW_RIR_DATA, from sfp_robtex",507
+2025-09-26 17:34:37,sfp_names,DEBUG,"Received event, RAW_RIR_DATA, from sfp_robtex",508
+2025-09-26 17:34:37,sfp_names,DEBUG,Ignoring RAW_RIR_DATA from untrusted module.,509
+2025-09-26 17:34:38,sflib,STATUS,Fetched https://api.threatminer.org/v2/host.php?q=192.168.142.134&rt=2 (0 bytes in 1.8315651416778564s),510
+2025-09-26 17:34:38,sfp_threatminer,STATUS,No ThreatMiner info found for 192.168.142.134,511
+2025-09-26 17:34:38,sfp_threatminer,STATUS,No Passive DNS info for 192.168.142.134,512
+2025-09-26 17:35:03,sfp_portscan_tcp,STATUS,TCP port 192.168.142.134:139 found to be OPEN.,513
+2025-09-26 17:35:03,sfp_portscan_tcp,STATUS,TCP port 192.168.142.134:23 found to be OPEN.,514
+2025-09-26 17:35:03,sfp_portscan_tcp,STATUS,Spawning thread to check port: 513 on 192.168.142.134,515
+2025-09-26 17:35:03,sfp_portscan_tcp,STATUS,Spawning thread to check port: 995 on 192.168.142.134,516
+2025-09-26 17:35:03,sfp_portscan_tcp,STATUS,Spawning thread to check port: 110 on 192.168.142.134,517
+2025-09-26 17:35:03,sfp_portscan_tcp,STATUS,Spawning thread to check port: 9000 on 192.168.142.134,518
+2025-09-26 17:35:03,sfp_portscan_tcp,STATUS,Spawning thread to check port: 993 on 192.168.142.134,519
+2025-09-26 17:35:03,sfp_portscan_tcp,STATUS,Spawning thread to check port: 990 on 192.168.142.134,520
+2025-09-26 17:35:03,sfp_portscan_tcp,STATUS,Spawning thread to check port: 143 on 192.168.142.134,521
+2025-09-26 17:35:03,sfp_portscan_tcp,STATUS,Spawning thread to check port: 22 on 192.168.142.134,522
+2025-09-26 17:35:03,sfp_portscan_tcp,STATUS,Spawning thread to check port: 119 on 192.168.142.134,523
+2025-09-26 17:35:03,sfp_portscan_tcp,STATUS,Spawning thread to check port: 3389 on 192.168.142.134,524
+2025-09-26 17:35:03,sfp_dnsresolve,DEBUG,"Received event, TCP_PORT_OPEN_BANNER, from sfp_portscan_tcp",525
+2025-09-26 17:35:03,sfp_email,DEBUG,"Received event, TCP_PORT_OPEN_BANNER, from sfp_portscan_tcp",526
+2025-09-26 17:35:03,sfp__stor_db,DEBUG,Storing an event: TCP_PORT_OPEN,527
+2025-09-26 17:35:03,sfp__stor_db,DEBUG,Storing an event: TCP_PORT_OPEN,528
+2025-09-26 17:35:03,sfp__stor_db,DEBUG,Storing an event: TCP_PORT_OPEN_BANNER,529
+2025-09-26 17:35:18,sfp_portscan_tcp,STATUS,TCP port 192.168.142.134:513 found to be OPEN.,530
+2025-09-26 17:35:18,sfp_portscan_tcp,STATUS,TCP port 192.168.142.134:22 found to be OPEN.,531
+2025-09-26 17:35:18,sfp_portscan_tcp,STATUS,Spawning thread to check port: 123 on 192.168.142.134,532
+2025-09-26 17:35:18,sfp_portscan_tcp,STATUS,Spawning thread to check port: 161 on 192.168.142.134,533
+2025-09-26 17:35:18,sfp_portscan_tcp,STATUS,Spawning thread to check port: 2638 on 192.168.142.134,534
+2025-09-26 17:35:18,sfp_portscan_tcp,STATUS,Spawning thread to check port: 21 on 192.168.142.134,535
+2025-09-26 17:35:18,sfp_portscan_tcp,STATUS,Spawning thread to check port: 111 on 192.168.142.134,536
+2025-09-26 17:35:18,sfp_portscan_tcp,STATUS,Spawning thread to check port: 1433 on 192.168.142.134,537
+2025-09-26 17:35:18,sfp_portscan_tcp,STATUS,Spawning thread to check port: 631 on 192.168.142.134,538
+2025-09-26 17:35:18,sfp_portscan_tcp,STATUS,Spawning thread to check port: 3306 on 192.168.142.134,539
+2025-09-26 17:35:18,sfp_portscan_tcp,STATUS,Spawning thread to check port: 113 on 192.168.142.134,540
+2025-09-26 17:35:18,sfp_portscan_tcp,STATUS,Spawning thread to check port: 445 on 192.168.142.134,541
+2025-09-26 17:35:18,sfp__stor_db,DEBUG,Storing an event: TCP_PORT_OPEN,542
+2025-09-26 17:35:18,sfp__stor_db,DEBUG,Storing an event: TCP_PORT_OPEN,543
+2025-09-26 17:35:18,sfp__stor_db,DEBUG,Storing an event: TCP_PORT_OPEN_BANNER,544
+2025-09-26 17:35:18,sfp_dnsresolve,DEBUG,"Received event, TCP_PORT_OPEN_BANNER, from sfp_portscan_tcp",545
+2025-09-26 17:35:18,sfp_email,DEBUG,"Received event, TCP_PORT_OPEN_BANNER, from sfp_portscan_tcp",546
+2025-09-26 17:35:49,sfp_portscan_tcp,STATUS,TCP port 192.168.142.134:21 found to be OPEN.,547
+2025-09-26 17:35:49,sfp_portscan_tcp,STATUS,TCP port 192.168.142.134:111 found to be OPEN.,548
+2025-09-26 17:35:49,sfp_portscan_tcp,STATUS,TCP port 192.168.142.134:3306 found to be OPEN.,549
+2025-09-26 17:35:49,sfp_portscan_tcp,STATUS,TCP port 192.168.142.134:445 found to be OPEN.,550
+2025-09-26 17:35:49,sfp_portscan_tcp,STATUS,Spawning thread to check port: 389 on 192.168.142.134,551
+2025-09-26 17:35:49,sfp_portscan_tcp,STATUS,Spawning thread to check port: 5901 on 192.168.142.134,552
+2025-09-26 17:35:49,sfp_portscan_tcp,STATUS,Spawning thread to check port: 5900 on 192.168.142.134,553
+2025-09-26 17:35:49,sfp_portscan_tcp,STATUS,Spawning thread to check port: 81 on 192.168.142.134,554
+2025-09-26 17:35:49,sfp_portscan_tcp,STATUS,Spawning thread to check port: 514 on 192.168.142.134,555
+2025-09-26 17:35:49,sfp_portscan_tcp,STATUS,Spawning thread to check port: 80 on 192.168.142.134,556
+2025-09-26 17:35:49,sfp_portscan_tcp,STATUS,Spawning thread to check port: 512 on 192.168.142.134,557
+2025-09-26 17:35:49,sfp_portscan_tcp,STATUS,Spawning thread to check port: 137 on 192.168.142.134,558
+2025-09-26 17:35:49,sfp_portscan_tcp,STATUS,Spawning thread to check port: 443 on 192.168.142.134,559
+2025-09-26 17:35:49,sfp_portscan_tcp,STATUS,Spawning thread to check port: 25 on 192.168.142.134,560
+2025-09-26 17:35:49,sfp__stor_db,DEBUG,Storing an event: TCP_PORT_OPEN,561
+2025-09-26 17:35:49,sfp__stor_db,DEBUG,Storing an event: TCP_PORT_OPEN_BANNER,562
+2025-09-26 17:35:49,sfp__stor_db,DEBUG,Storing an event: TCP_PORT_OPEN,563
+2025-09-26 17:35:49,sfp__stor_db,DEBUG,Storing an event: TCP_PORT_OPEN,564
+2025-09-26 17:35:49,sfp__stor_db,DEBUG,Storing an event: TCP_PORT_OPEN_BANNER,565
+2025-09-26 17:35:49,sfp__stor_db,DEBUG,Storing an event: TCP_PORT_OPEN,566
+2025-09-26 17:35:49,sfp_dnsresolve,DEBUG,"Received event, TCP_PORT_OPEN_BANNER, from sfp_portscan_tcp",567
+2025-09-26 17:35:49,sfp_email,DEBUG,"Received event, TCP_PORT_OPEN_BANNER, from sfp_portscan_tcp",568
+2025-09-26 17:35:49,sfp_dnsresolve,DEBUG,"Received event, TCP_PORT_OPEN_BANNER, from sfp_portscan_tcp",569
+2025-09-26 17:35:49,sfp_email,DEBUG,"Received event, TCP_PORT_OPEN_BANNER, from sfp_portscan_tcp",570
+2025-09-26 17:36:04,sfp_portscan_tcp,STATUS,TCP port 192.168.142.134:5900 found to be OPEN.,571
+2025-09-26 17:36:04,sfp_portscan_tcp,STATUS,TCP port 192.168.142.134:512 found to be OPEN.,572
+2025-09-26 17:36:04,sfp_portscan_tcp,STATUS,TCP port 192.168.142.134:80 found to be OPEN.,573
+2025-09-26 17:36:04,sfp_portscan_tcp,STATUS,TCP port 192.168.142.134:25 found to be OPEN.,574
+2025-09-26 17:36:04,sfp_portscan_tcp,STATUS,Spawning thread to check port: 1080 on 192.168.142.134,575
+2025-09-26 17:36:04,sfp_portscan_tcp,STATUS,Spawning thread to check port: 8080 on 192.168.142.134,576
+2025-09-26 17:36:04,sfp_portscan_tcp,STATUS,Spawning thread to check port: 179 on 192.168.142.134,577
+2025-09-26 17:36:04,sfp_portscan_tcp,STATUS,Spawning thread to check port: 465 on 192.168.142.134,578
+2025-09-26 17:36:04,sfp_portscan_tcp,STATUS,Spawning thread to check port: 5903 on 192.168.142.134,579
+2025-09-26 17:36:04,sfp_portscan_tcp,STATUS,Spawning thread to check port: 515 on 192.168.142.134,580
+2025-09-26 17:36:04,sfp_portscan_tcp,STATUS,Spawning thread to check port: 5432 on 192.168.142.134,581
+2025-09-26 17:36:04,sfp_portscan_tcp,STATUS,Spawning thread to check port: 5631 on 192.168.142.134,582
+2025-09-26 17:36:04,sfp_portscan_tcp,STATUS,Spawning thread to check port: 992 on 192.168.142.134,583
+2025-09-26 17:36:04,sfp_dnsresolve,DEBUG,"Received event, TCP_PORT_OPEN_BANNER, from sfp_portscan_tcp",584
+2025-09-26 17:36:04,sfp_email,DEBUG,"Received event, TCP_PORT_OPEN_BANNER, from sfp_portscan_tcp",585
+2025-09-26 17:36:04,sfp_dnsresolve,DEBUG,"Received event, TCP_PORT_OPEN_BANNER, from sfp_portscan_tcp",586
+2025-09-26 17:36:04,sfp_email,DEBUG,"Received event, TCP_PORT_OPEN_BANNER, from sfp_portscan_tcp",587
+2025-09-26 17:36:04,sfp_dnsresolve,DEBUG,"Received event, TCP_PORT_OPEN_BANNER, from sfp_portscan_tcp",588
+2025-09-26 17:36:04,sfp__stor_db,DEBUG,Storing an event: TCP_PORT_OPEN,589
+2025-09-26 17:36:04,sfp__stor_db,DEBUG,Storing an event: TCP_PORT_OPEN_BANNER,590
+2025-09-26 17:36:04,sfp__stor_db,DEBUG,Storing an event: TCP_PORT_OPEN,591
+2025-09-26 17:36:04,sfp__stor_db,DEBUG,Storing an event: TCP_PORT_OPEN_BANNER,592
+2025-09-26 17:36:04,sfp_email,DEBUG,"Received event, TCP_PORT_OPEN_BANNER, from sfp_portscan_tcp",593
+2025-09-26 17:36:04,sfp__stor_db,DEBUG,Storing an event: TCP_PORT_OPEN,594
+2025-09-26 17:36:04,sfp__stor_db,DEBUG,Storing an event: TCP_PORT_OPEN,595
+2025-09-26 17:36:04,sfp__stor_db,DEBUG,Storing an event: TCP_PORT_OPEN_BANNER,596
+2025-09-26 17:36:19,sfp_portscan_tcp,STATUS,TCP port 192.168.142.134:5432 found to be OPEN.,597
+2025-09-26 17:36:19,sfp__stor_db,DEBUG,Storing an event: TCP_PORT_OPEN,598
+2025-09-26 17:36:21,sflib,STATUS,Running 37 correlation rules.,599
+2025-09-26 17:36:21,sflib,STATUS,Scan [948DD7E6] completed.,600
