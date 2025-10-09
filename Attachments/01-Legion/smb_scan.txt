@@ -1,0 +1,291 @@
+
+########## Getting Netbios name ##########
+Doing NBT name scan for addresses from 192.168.142.134
+
+
+NetBIOS Name Table for Host 192.168.142.134:
+
+Incomplete packet, 335 bytes long.
+Name             Service          Type             
+----------------------------------------
+METASPLOITABLE   Workstation Service
+METASPLOITABLE   Messenger Service
+METASPLOITABLE   File Server Service
+METASPLOITABLE   Workstation Service
+METASPLOITABLE   Messenger Service
+METASPLOITABLE   File Server Service
+__MSBROWSE__  Master Browser
+WORKGROUP        Domain Name
+WORKGROUP        Master Browser
+WORKGROUP        Browser Service Elections
+WORKGROUP        Domain Name
+WORKGROUP        Master Browser
+WORKGROUP        Browser Service Elections
+
+Adapter address: 00:00:00:00:00:00
+----------------------------------------
+
+########## Checking for NULL sessions ##########
+METASPLOITABLE Wk Sv PrQ Unx NT SNT metasploitable server (Samba 3.0.20-Debian) platform_id : 500 os version : 4.9 server type : 0x9a03
+
+########## Enumerating domains ##########
+name:[METASPLOITABLE] idx:[0x0]
+name:[Builtin] idx:[0x0]
+
+
+########## Enumerating password and lockout policies ##########
+
+
+
+[+] Attaching to 192.168.142.134 using a NULL share
+
+[+] Trying protocol 139/SMB...
+
+	[!] Protocol failed: 'NoneType' object has no attribute 'decode'
+
+[+] Trying protocol 445/SMB...
+
+	[!] Protocol failed: 'NoneType' object has no attribute 'decode'
+
+
+
+
+########## Enumerating users ##########
+
+Starting Nmap 7.95 ( https://nmap.org ) at 2025-10-09 15:13 KST
+
+Nmap scan report for 192.168.142.134
+Host is up (0.00045s latency).
+
+PORT    STATE SERVICE
+139/tcp open  netbios-ssn
+445/tcp open  microsoft-ds
+MAC Address: 00:0C:29:38:E3:3B (VMware)
+
+Host script results:
+| smb-enum-users: 
+|   METASPLOITABLE\backup (RID: 1068)
+|     Full name:   backup
+|     Flags:       Normal user account, Account disabled
+|   METASPLOITABLE\bin (RID: 1004)
+|     Full name:   bin
+|     Flags:       Normal user account, Account disabled
+|   METASPLOITABLE\bind (RID: 1210)
+|     Flags:       Normal user account, Account disabled
+|   METASPLOITABLE\daemon (RID: 1002)
+|     Full name:   daemon
+|     Flags:       Normal user account, Account disabled
+|   METASPLOITABLE\dhcp (RID: 1202)
+|     Flags:       Normal user account, Account disabled
+|   METASPLOITABLE\distccd (RID: 1222)
+|     Flags:       Normal user account, Account disabled
+|   METASPLOITABLE\ftp (RID: 1214)
+|     Flags:       Normal user account, Account disabled
+|   METASPLOITABLE\games (RID: 1010)
+|     Full name:   games
+|     Flags:       Normal user account, Account disabled
+|   METASPLOITABLE\gnats (RID: 1082)
+|     Full name:   Gnats Bug-Reporting System (admin)
+|     Flags:       Normal user account, Account disabled
+|   METASPLOITABLE\irc (RID: 1078)
+|     Full name:   ircd
+|     Flags:       Normal user account, Account disabled
+|   METASPLOITABLE\klog (RID: 1206)
+|     Flags:       Normal user account, Account disabled
+|   METASPLOITABLE\libuuid (RID: 1200)
+|     Flags:       Normal user account, Account disabled
+|   METASPLOITABLE\list (RID: 1076)
+|     Full name:   Mailing List Manager
+|     Flags:       Normal user account, Account disabled
+|   METASPLOITABLE\lp (RID: 1014)
+|     Full name:   lp
+|     Flags:       Normal user account, Account disabled
+|   METASPLOITABLE\mail (RID: 1016)
+|     Full name:   mail
+|     Flags:       Normal user account, Account disabled
+|   METASPLOITABLE\man (RID: 1012)
+|     Full name:   man
+|     Flags:       Normal user account, Account disabled
+|   METASPLOITABLE\msfadmin (RID: 3000)
+|     Full name:   msfadmin,,,
+|     Flags:       Normal user account
+|   METASPLOITABLE\mysql (RID: 1218)
+|     Full name:   MySQL Server,,,
+|     Flags:       Normal user account, Account disabled
+|   METASPLOITABLE\news (RID: 1018)
+|     Full name:   news
+|     Flags:       Normal user account, Account disabled
+|   METASPLOITABLE\nobody (RID: 501)
+|     Full name:   nobody
+|     Flags:       Normal user account, Account disabled
+|   METASPLOITABLE\postfix (RID: 1212)
+|     Flags:       Normal user account, Account disabled
+|   METASPLOITABLE\postgres (RID: 1216)
+|     Full name:   PostgreSQL administrator,,,
+|     Flags:       Normal user account, Account disabled
+|   METASPLOITABLE\proftpd (RID: 1226)
+|     Flags:       Normal user account, Account disabled
+|   METASPLOITABLE\proxy (RID: 1026)
+|     Full name:   proxy
+|     Flags:       Normal user account, Account disabled
+|   METASPLOITABLE\root (RID: 1000)
+|     Full name:   root
+|     Flags:       Normal user account, Account disabled
+|   METASPLOITABLE\service (RID: 3004)
+|     Full name:   ,,,
+|     Flags:       Normal user account, Account disabled
+|   METASPLOITABLE\sshd (RID: 1208)
+|     Flags:       Normal user account, Account disabled
+|   METASPLOITABLE\sync (RID: 1008)
+|     Full name:   sync
+|     Flags:       Normal user account, Account disabled
+|   METASPLOITABLE\sys (RID: 1006)
+|     Full name:   sys
+|     Flags:       Normal user account, Account disabled
+|   METASPLOITABLE\syslog (RID: 1204)
+|     Flags:       Normal user account, Account disabled
+|   METASPLOITABLE\telnetd (RID: 1224)
+|     Flags:       Normal user account, Account disabled
+|   METASPLOITABLE\tomcat55 (RID: 1220)
+|     Flags:       Normal user account, Account disabled
+|   METASPLOITABLE\user (RID: 3002)
+|     Full name:   just a user,111,,
+|     Flags:       Normal user account
+|   METASPLOITABLE\uucp (RID: 1020)
+|     Full name:   uucp
+|     Flags:       Normal user account, Account disabled
+|   METASPLOITABLE\www-data (RID: 1066)
+|     Full name:   www-data
+|_    Flags:       Normal user account, Account disabled
+
+
+Nmap done: 1 IP address (1 host up) scanned in 1.07 seconds
+
+user:[games] rid:[0x3f2]
+user:[nobody] rid:[0x1f5]
+user:[bind] rid:[0x4ba]
+user:[proxy] rid:[0x402]
+user:[syslog] rid:[0x4b4]
+user:[user] rid:[0xbba]
+user:[www-data] rid:[0x42a]
+user:[root] rid:[0x3e8]
+user:[news] rid:[0x3fa]
+user:[postgres] rid:[0x4c0]
+user:[bin] rid:[0x3ec]
+user:[mail] rid:[0x3f8]
+user:[distccd] rid:[0x4c6]
+user:[proftpd] rid:[0x4ca]
+user:[dhcp] rid:[0x4b2]
+user:[daemon] rid:[0x3ea]
+user:[sshd] rid:[0x4b8]
+user:[man] rid:[0x3f4]
+user:[lp] rid:[0x3f6]
+user:[mysql] rid:[0x4c2]
+user:[gnats] rid:[0x43a]
+user:[libuuid] rid:[0x4b0]
+user:[backup] rid:[0x42c]
+user:[msfadmin] rid:[0xbb8]
+user:[telnetd] rid:[0x4c8]
+user:[sys] rid:[0x3ee]
+user:[klog] rid:[0x4b6]
+user:[postfix] rid:[0x4bc]
+user:[service] rid:[0xbbc]
+user:[list] rid:[0x434]
+user:[irc] rid:[0x436]
+user:[ftp] rid:[0x4be]
+user:[tomcat55] rid:[0x4c4]
+user:[sync] rid:[0x3f0]
+user:[uucp] rid:[0x3fc]
+
+
+########## Enumerating Administrators ##########
+
+
+########## Enumerating Domain Admins ##########
+
+
+########## Enumerating groups ##########
+Starting Nmap 7.95 ( https://nmap.org ) at 2025-10-09 15:13 KST
+
+Nmap scan report for 192.168.142.134
+
+Host is up (0.00055s latency).
+
+PORT    STATE SERVICE
+139/tcp open  netbios-ssn
+445/tcp open  microsoft-ds
+MAC Address: 00:0C:29:38:E3:3B (VMware)
+
+Nmap done: 1 IP address (1 host up) scanned in 0.84 seconds
+
+
+########## Enumerating shares ##########
+
+Starting Nmap 7.95 ( https://nmap.org ) at 2025-10-09 15:13 KST
+
+Nmap scan report for 192.168.142.134
+Host is up (0.00082s latency).
+
+PORT    STATE SERVICE
+139/tcp open  netbios-ssn
+445/tcp open  microsoft-ds
+MAC Address: 00:0C:29:38:E3:3B (VMware)
+
+Host script results:
+| smb-enum-shares: 
+|   account_used: <blank>
+|   \\192.168.142.134\ADMIN$: 
+|     Type: STYPE_IPC
+|     Comment: IPC Service (metasploitable server (Samba 3.0.20-Debian))
+|     Users: 1
+|     Max Users: <unlimited>
+|     Path: C:\tmp
+|     Anonymous access: <none>
+|   \\192.168.142.134\IPC$: 
+|     Type: STYPE_IPC
+|     Comment: IPC Service (metasploitable server (Samba 3.0.20-Debian))
+|     Users: 1
+|     Max Users: <unlimited>
+|     Path: C:\tmp
+|     Anonymous access: READ/WRITE
+|   \\192.168.142.134\opt: 
+|     Type: STYPE_DISKTREE
+|     Comment: 
+|     Users: 1
+|     Max Users: <unlimited>
+|     Path: C:\tmp
+|     Anonymous access: <none>
+|   \\192.168.142.134\print$: 
+|     Type: STYPE_DISKTREE
+|     Comment: Printer Drivers
+|     Users: 1
+|     Max Users: <unlimited>
+|     Path: C:\var\lib\samba\printers
+|     Anonymous access: <none>
+|   \\192.168.142.134\tmp: 
+|     Type: STYPE_DISKTREE
+|     Comment: oh noes!
+|     Users: 1
+|     Max Users: <unlimited>
+|     Path: C:\tmp
+|_    Anonymous access: READ/WRITE
+
+Nmap done: 1 IP address (1 host up) scanned in 1.32 seconds
+
+
+########## Bruteforcing all users with 'password', blank and username as password
+
+Hydra v9.6 (c) 2023 by van Hauser/THC & David Maciejak - Please do not use in military or secret service organizations, or for illegal purposes (this is non-binding, these *** ignore laws and ethics anyway).
+
+
+Hydra (https://github.com/vanhauser-thc/thc-hydra) starting at 2025-10-09 15:13:41
+
+[DATA] max 1 task per 1 server, overall 1 task, 108 login tries (l:36/p:3), ~108 tries per task
+[DATA] attacking smb://192.168.142.134:445/
+
+[445][smb] host: 192.168.142.134   misc: (null)   login: user   password: user
+
+[445][smb] host: 192.168.142.134   misc: (null)   login: msfadmin   password: msfadmin
+
+1 of 1 target successfully completed, 2 valid passwords found
+Hydra (https://github.com/vanhauser-thc/thc-hydra) finished at 2025-10-09 15:13:44
