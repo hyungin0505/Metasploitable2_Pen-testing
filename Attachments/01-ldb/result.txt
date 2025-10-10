@@ -1,0 +1,16 @@
+
+lbd - load balancing detector 0.4 - Checks if a given domain uses load-balancing.
+                                    Written by Stefan Behte (http://ge.mine.nu)
+                                    Proof-of-concept! Might give false positives.
+
+Checking for DNS-Loadbalancing: NOT FOUND
+Checking for HTTP-Loadbalancing [Server]: 
+ Apache/2.2.8 (Ubuntu) DAV/2
+ NOT FOUND
+
+Checking for HTTP-Loadbalancing [Date]: 16:12:57, 16:12:57, 16:12:57, 16:12:57, 16:12:57, 16:12:57, 16:12:57, 16:12:57, 16:12:58, 16:12:58, 16:12:58, 16:12:58, 16:12:58, 16:12:58, 16:12:58, 16:12:58, 16:12:58, 16:12:58, 16:12:59, 16:12:59, 16:12:59, 16:12:59, 16:12:59, 16:12:59, 16:12:59, 16:12:59, 16:12:59, 16:13:00, 16:13:00, 16:13:00, 16:13:00, 16:13:00, 16:13:00, 16:13:00, 16:13:00, 16:13:00, 16:13:00, 16:13:01, 16:13:01, 16:13:01, 16:13:01, 16:13:01, 16:13:01, 16:13:01, 16:13:01, 16:13:01, 16:13:01, 16:13:02, 16:13:02, 16:13:02, NOT FOUND
+
+Checking for HTTP-Loadbalancing [Diff]: NOT FOUND
+
+192.168.142.134 does NOT use Load-balancing.
+
