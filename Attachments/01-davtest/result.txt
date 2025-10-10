@@ -1,0 +1,56 @@
+********************************************************
+ Testing DAV connection
+OPEN		SUCCEED:		http://192.168.142.134/dav
+********************************************************
+NOTE	Random string for this session: DAOeUE3V7TT
+********************************************************
+ Creating directory
+MKCOL		SUCCEED:		Created http://192.168.142.134/dav/DavTestDir_DAOeUE3V7TT
+********************************************************
+ Sending test files
+PUT	asp	SUCCEED:	http://192.168.142.134/dav/DavTestDir_DAOeUE3V7TT/davtest_DAOeUE3V7TT.asp
+PUT	jsp	SUCCEED:	http://192.168.142.134/dav/DavTestDir_DAOeUE3V7TT/davtest_DAOeUE3V7TT.jsp
+PUT	cgi	SUCCEED:	http://192.168.142.134/dav/DavTestDir_DAOeUE3V7TT/davtest_DAOeUE3V7TT.cgi
+PUT	cfm	SUCCEED:	http://192.168.142.134/dav/DavTestDir_DAOeUE3V7TT/davtest_DAOeUE3V7TT.cfm
+PUT	php	SUCCEED:	http://192.168.142.134/dav/DavTestDir_DAOeUE3V7TT/davtest_DAOeUE3V7TT.php
+PUT	aspx	SUCCEED:	http://192.168.142.134/dav/DavTestDir_DAOeUE3V7TT/davtest_DAOeUE3V7TT.aspx
+PUT	jhtml	SUCCEED:	http://192.168.142.134/dav/DavTestDir_DAOeUE3V7TT/davtest_DAOeUE3V7TT.jhtml
+PUT	txt	SUCCEED:	http://192.168.142.134/dav/DavTestDir_DAOeUE3V7TT/davtest_DAOeUE3V7TT.txt
+PUT	pl	SUCCEED:	http://192.168.142.134/dav/DavTestDir_DAOeUE3V7TT/davtest_DAOeUE3V7TT.pl
+PUT	html	SUCCEED:	http://192.168.142.134/dav/DavTestDir_DAOeUE3V7TT/davtest_DAOeUE3V7TT.html
+PUT	shtml	SUCCEED:	http://192.168.142.134/dav/DavTestDir_DAOeUE3V7TT/davtest_DAOeUE3V7TT.shtml
+********************************************************
+ Checking for test file execution
+EXEC	asp	FAIL
+EXEC	jsp	FAIL
+EXEC	cgi	FAIL
+EXEC	cfm	FAIL
+EXEC	php	SUCCEED:	http://192.168.142.134/dav/DavTestDir_DAOeUE3V7TT/davtest_DAOeUE3V7TT.php
+EXEC	php	FAIL
+EXEC	aspx	FAIL
+EXEC	jhtml	FAIL
+EXEC	txt	SUCCEED:	http://192.168.142.134/dav/DavTestDir_DAOeUE3V7TT/davtest_DAOeUE3V7TT.txt
+EXEC	txt	FAIL
+EXEC	pl	FAIL
+EXEC	html	SUCCEED:	http://192.168.142.134/dav/DavTestDir_DAOeUE3V7TT/davtest_DAOeUE3V7TT.html
+EXEC	html	FAIL
+EXEC	shtml	FAIL
+
+********************************************************
+/usr/bin/davtest Summary:
+Created: http://192.168.142.134/dav/DavTestDir_DAOeUE3V7TT
+PUT File: http://192.168.142.134/dav/DavTestDir_DAOeUE3V7TT/davtest_DAOeUE3V7TT.asp
+PUT File: http://192.168.142.134/dav/DavTestDir_DAOeUE3V7TT/davtest_DAOeUE3V7TT.jsp
+PUT File: http://192.168.142.134/dav/DavTestDir_DAOeUE3V7TT/davtest_DAOeUE3V7TT.cgi
+PUT File: http://192.168.142.134/dav/DavTestDir_DAOeUE3V7TT/davtest_DAOeUE3V7TT.cfm
+PUT File: http://192.168.142.134/dav/DavTestDir_DAOeUE3V7TT/davtest_DAOeUE3V7TT.php
+PUT File: http://192.168.142.134/dav/DavTestDir_DAOeUE3V7TT/davtest_DAOeUE3V7TT.aspx
+PUT File: http://192.168.142.134/dav/DavTestDir_DAOeUE3V7TT/davtest_DAOeUE3V7TT.jhtml
+PUT File: http://192.168.142.134/dav/DavTestDir_DAOeUE3V7TT/davtest_DAOeUE3V7TT.txt
+PUT File: http://192.168.142.134/dav/DavTestDir_DAOeUE3V7TT/davtest_DAOeUE3V7TT.pl
+PUT File: http://192.168.142.134/dav/DavTestDir_DAOeUE3V7TT/davtest_DAOeUE3V7TT.html
+PUT File: http://192.168.142.134/dav/DavTestDir_DAOeUE3V7TT/davtest_DAOeUE3V7TT.shtml
+Executes: http://192.168.142.134/dav/DavTestDir_DAOeUE3V7TT/davtest_DAOeUE3V7TT.php
+Executes: http://192.168.142.134/dav/DavTestDir_DAOeUE3V7TT/davtest_DAOeUE3V7TT.txt
+Executes: http://192.168.142.134/dav/DavTestDir_DAOeUE3V7TT/davtest_DAOeUE3V7TT.html
+
