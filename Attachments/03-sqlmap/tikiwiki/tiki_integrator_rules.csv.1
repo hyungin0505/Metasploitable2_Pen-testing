@@ -1,5 +1,0 @@
-repID,ruleID,repl,srch,ord,rxmod,type,enabled,casesense,description
-1,1,1,.*<body[^>]*?>(.*?)</body.*,1,i,y,y,n,Extract code between <BODY> tags
-1,2,img src=1{path}/,"img src=(""|')(?!http://)",2,i,y,y,n,Fix images path
-1,3,href=1tiki-integrator.php?repID={repID}&file=,"href=(""|')(?!(#|(http|ftp)://))",3,i,y,y,n,Relace internal links to integrator. Dont touch an external links.
-
