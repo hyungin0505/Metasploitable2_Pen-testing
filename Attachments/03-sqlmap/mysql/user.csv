@@ -1,0 +1,5 @@
+Host,User,Password,ssl_type,Drop_priv,File_priv,Alter_priv,Grant_priv,Index_priv,Super_priv,ssl_cipher,Create_priv,Delete_priv,Insert_priv,Reload_priv,Select_priv,Update_priv,max_updates,x509_issuer,Execute_priv,Process_priv,Show_db_priv,x509_subject,Shutdown_priv,max_questions,Show_view_priv,References_priv,Repl_slave_priv,max_connections,Create_user_priv,Create_view_priv,Lock_tables_priv,Repl_client_priv,Alter_routine_priv,Create_routine_priv,Create_tmp_table_priv,max_user_connections
+<blank>,debian-sys-maint,<blank>,<blank>,Y,Y,Y,Y,Y,Y,<blank>,Y,Y,Y,Y,Y,Y,0,<blank>,Y,Y,Y,<blank>,Y,0,N,Y,Y,0,N,N,Y,Y,N,N,Y,0
+%,root,<blank>,<blank>,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,0,<blank>,Y,Y,Y,<blank>,Y,0,Y,Y,Y,0,Y,Y,Y,Y,Y,Y,Y,0
+%,guest,<blank>,<blank>,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,0,<blank>,Y,Y,Y,<blank>,Y,0,Y,Y,Y,0,Y,Y,Y,Y,Y,Y,Y,0
+

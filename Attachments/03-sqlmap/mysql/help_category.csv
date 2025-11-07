@@ -1,0 +1,38 @@
+help_category_id,parent_category_id,url,name
+1,0,<blank>,Geographic
+2,30,<blank>,Polygon properties
+3,30,<blank>,WKT
+4,34,<blank>,Numeric Functions
+5,30,<blank>,MBR
+6,34,<blank>,Control flow functions
+7,31,<blank>,Transactions
+8,31,<blank>,Account Management
+9,30,<blank>,Point properties
+10,34,<blank>,Encryption Functions
+11,30,<blank>,LineString properties
+12,34,<blank>,Logical operators
+13,34,<blank>,Miscellaneous Functions
+14,31,<blank>,Functions and Modifiers for Use with GROUP BY
+15,34,<blank>,Information Functions
+16,31,<blank>,Storage Engines
+17,34,<blank>,Comparison operators
+18,34,<blank>,Bit Functions
+19,31,<blank>,Table Maintenance
+20,31,<blank>,Data Types
+21,31,<blank>,Triggers
+22,30,<blank>,Geometry constructors
+23,1,<blank>,GeometryCollection properties
+24,31,<blank>,Administration
+25,31,<blank>,Data Manipulation
+26,30,<blank>,Geometry relations
+27,31,<blank>,Language Structure
+28,34,<blank>,Date and Time Functions
+29,30,<blank>,WKB
+30,31,<blank>,Geographic Features
+31,0,<blank>,Contents
+32,30,<blank>,Geometry properties
+33,34,<blank>,String Functions
+34,31,<blank>,Functions
+35,31,<blank>,Stored Routines
+36,31,<blank>,Data Definition
+

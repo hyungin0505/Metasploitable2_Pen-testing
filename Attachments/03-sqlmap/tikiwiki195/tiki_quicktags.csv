@@ -1,0 +1,51 @@
+tagId,tagicon,taglabel,taginsert,tagcategory
+1,images/ed_format_bold.gif,bold,__text__,wiki
+2,images/ed_format_italic.gif,italic,''text'',wiki
+3,images/ed_format_underline.gif,underline,===text===,wiki
+4,images/insert_table.gif,table,||r1c1|r1c2||r2c1|r2c2||,wiki
+5,images/insert_table.gif,table new,||r1c1|r1c2\nr2c1|r2c2||,wiki
+6,images/ed_link.gif,external link,[http://example.com|text],wiki
+7,images/ed_copy.gif,wiki link,((text)),wiki
+8,images/ed_custom.gif,heading1,!text,wiki
+9,images/fullscreen_maximize.gif,title bar,-=text=-,wiki
+10,images/ed_about.gif,box,^text^,wiki
+11,images/ico_link.gif,rss feed,{rss id= },wiki
+12,images/book.gif,dynamic content,{content id= },wiki
+13,images/footprint.gif,tagline,{cookie},wiki
+14,images/ed_hr.gif,hr,---,wiki
+15,images/ed_align_center.gif,center text,::text::,wiki
+16,images/fontfamily.gif,colored text,~~#FF0000:text~~,wiki
+17,images/book.gif,dynamic variable,%text%,wiki
+18,images/ed_image.gif,image,{img src= width= height= align= desc= link= },wiki
+19,img/icons/admin_metatags.png,New wms Metadata,"METADATA\r\n\t\t""wms_name"" ""myname""\r\n \t""wms_srs"" ""EPSG:4326""\r\n \t""wms_server_version"" "" ""\r\n \t""wms_layers"" ""mylayers""\r\n \t""wms_request"" ""myrequest""\r\n \t""wms_format"" "" ""\r\n \t""wms_time"" "" ""\r\n END",maps
+20,img/icons/mini_triangle.gif,New Class,"CLASS\r\n EXPRESSION ()\r\n SYMBOL 0\r\n OUTLINECOLOR\r\n COLOR\r\n NAME ""myclass"" \r\nEND #end of class",maps
+21,images/ico_mode.gif,New Projection,"PROJECTION\r\n ""init=epsg:4326""\r\nEND",maps
+22,img/icons/questions.gif,New Query,#\r\n# Start of query definitions\r\n#\r\n QUERYMAP\r\n STATUS ON\r\n STYLE HILITE\r\nEND,maps
+23,img/icons/desc_length.gif,New Scalebar,#\r\n# Start of scalebar\r\n#\r\nSCALEBAR\r\n IMAGECOLOR 255 255 255\r\n STYLE 1\r\n SIZE 400 2\r\n COLOR 0 0 0\r\n UNITS KILOMETERS\r\n INTERVALS 5\r\n STATUS ON\r\nEND,maps
+24,images/ed_copy.gif,New Layer,"LAYER\r\n NAME\r\n TYPE\r\n STATUS ON\r\n DATA ""mydata""\r\nEND #end of layer",maps
+25,img/icons/fontfamily.gif,New Label,LABEL\r\n COLOR\r\n ANGLE\r\n FONT arial\r\n TYPE TRUETYPE\r\n POSITION\r\n PARTIALS TRUE\r\n SIZE 6\r\n BUFFER 0\r\n OUTLINECOLOR \r\nEND #end of label,maps
+26,images/ed_image.gif,New Reference,"#\r\n#start of reference\r\n#\r\n REFERENCE\r\n SIZE 120 60\r\n STATUS ON\r\n EXTENT -180 -90 182 88\r\n OUTLINECOLOR 255 0 0\r\n IMAGE ""myimagedata""\r\n COLOR -1 -1 -1\r\nEND",maps
+27,images/ed_about.gif,New Legend,#\r\n#start of Legend\r\n#\r\n LEGEND\r\n KEYSIZE 18 12\r\n POSTLABELCACHE TRUE\r\n STATUS ON\r\nEND,maps
+28,img/icons/ico_link.gif,New Web,"#\r\n# Start of web interface definition\r\n#\r\nWEB\r\n TEMPLATE ""myfile/url""\r\n MINSCALE 1000\r\n MAXSCALE 40000\r\n IMAGEPATH ""myimagepath""\r\n IMAGEURL ""mypath""\r\nEND",maps
+29,img/icons/opera.gif,New Outputformat,"OUTPUTFORMAT\r\n NAME\r\n DRIVER "" ""\r\n MIMETYPE ""myimagetype""\r\n IMAGEMODE RGB\r\n EXTENSION ""png""\r\nEND",maps
+30,img/icons/global.gif,New Mapfile,"#\r\n# Start of mapfile\r\n#\r\nNAME MYMAPFLE\r\n STATUS ON\r\nSIZE \r\nEXTENT\r\nUNITS \r\nSHAPEPATH "" ""\r\nIMAGETYPE "" ""\r\nFONTSET "" ""\r\nIMAGECOLOR -1 -1 -1\r\n\r\n#remove this text and add objects here\r\n\r\nEND # end of mapfile",maps
+31,images/ed_format_bold.gif,bold,__text__,newsletters
+32,images/ed_format_italic.gif,italic,''text'',newsletters
+33,images/ed_format_underline.gif,underline,===text===,newsletters
+34,images/ed_link.gif,external link,[http://example.com|text|nocache],newsletters
+35,images/ed_custom.gif,heading1,!text,newsletters
+36,images/ed_hr.gif,hr,---,newsletters
+37,images/ed_align_center.gif,center text,::text::,newsletters
+38,images/fontfamily.gif,colored text,~~#FF0000:text~~,newsletters
+39,images/ed_image.gif,image,{img src= width= height= align= desc= link= },newsletters
+40,img/icons/admin_metatags.png,New wms Metadata,"METADATA\r\n\t\t""wms_name"" ""myname""\r\n\t\t""wms_srs"" ""EPSG:4326""\r\n\t""wms_server_version"" "" ""\r\n\t""wms_layers"" ""mylayers""\r\n\t""wms_request"" ""myrequest""\r\n\t""wms_format"" "" ""\r\n\t""wms_time"" "" ""\r\n END",maps
+41,img/icons/mini_triangle.gif,New Class,"CLASS\r\n EXPRESSION ()\r\n SYMBOL 0\r\n OUTLINECOLOR\r\n COLOR\r\n  NAME ""myclass""\r\nEND #end of class",maps
+42,img/icons/question.gif,New Query,#\r\n#Start of query definitions\r\n QUERYMAP\r\n STATUS ON\r\n STYLE HILITE\r\nEND,maps
+43,img/icons/desc_lenght.gif,New Scalebar,#\r\n#start of scalebar\r\nSCALEBAR\r\n IMAGECOLOR 255 255 255\r\n STYLE 1\r\n SIZE 400 2\r\n COLOR 0 0 0\r\n  UNITS KILOMETERS\r\n INTERVALS 5\r\n STATUS ON\r\nEND,maps
+44,img/ed_copy.gif,New Layer,"LAYER\r\n NAME ""mylayer""\r\n TYPE\r\n STATUS ON\r\n DATA ""mydata""\r\nEND #end of layer",maps
+45,img/icons/fontfamily.gif,New Label,LABEL\r\n  COLOR\r\n ANGLE\r\n FONT arial\r\n TYPE TRUETYPE\r\n  POSITION\r\n  PARTIALS TRUE\r\n  SIZE 6\r\n  BUFFER 0\r\n OUTLINECOLOR\r\nEND #end of label,maps
+46,images/ed_image.gif,New Reference,"#\r\n#start of reference\r\nREFERENCE\r\n SIZE 120 60\r\n STATUS ON\r\n  EXTENT -180 -90 182 88\r\n OUTLINECOLOR 255 0 0\r\n IMAGE ""myimagedata""\r\nCOLOR -1 -1 -1\r\nEND",maps
+47,images/ed_about.gif,New Legend,#\r\n#start of legend\r\n#\r\nLEGENDr\n KEYSIZE 18 12\r\n POSTLABELCACHE TRUE\r\n STATUS ON\r\nEND,maps
+48,img/icons/ico_link.gif,New Web,"#\r\n#Start of web interface definition\r\n#\r\nWEB\r\n TEMPLATE ""myfile/url""\r\n MINSCALE 1000\r\n MAXSCALE 40000\r\n IMAGEPATH ""myimagepath""\r\n IMAGEURL ""mypath""\r\nEND",maps
+49,img/icons/global.gif,New Mapfile,"#\r\n#Start of mapfile\r\n#\r\nNAME MYMAPFILE\r\n STATUS ON\r\nSIZE \r\nEXTENT\r\n UNITS\r\nSHAPEPATH "" ""\r\nIMAGETYPE "" ""\r\nFONTSET "" ""\r\nIMAGECOLOR -1 -1 -1\r\n\r\n#remove this text and add objects here\r\n\r\nEND # end of mapfile",maps
+

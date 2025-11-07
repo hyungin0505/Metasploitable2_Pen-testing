@@ -1,0 +1,30 @@
+GRANTEE,IS_GRANTABLE,TABLE_SCHEMA,TABLE_CATALOG,PRIVILEGE_TYPE
+''@'%',NO,test,NULL,SELECT
+''@'%',NO,test,NULL,INSERT
+''@'%',NO,test,NULL,UPDATE
+''@'%',NO,test,NULL,DELETE
+''@'%',NO,test,NULL,CREATE
+''@'%',NO,test,NULL,DROP
+''@'%',NO,test,NULL,REFERENCES
+''@'%',NO,test,NULL,INDEX
+''@'%',NO,test,NULL,ALTER
+''@'%',NO,test,NULL,CREATE TEMPORARY TABLES
+''@'%',NO,test,NULL,LOCK TABLES
+''@'%',NO,test,NULL,CREATE VIEW
+''@'%',NO,test,NULL,SHOW VIEW
+''@'%',NO,test,NULL,CREATE ROUTINE
+''@'%',NO,test\\_%,NULL,SELECT
+''@'%',NO,test\\_%,NULL,INSERT
+''@'%',NO,test\\_%,NULL,UPDATE
+''@'%',NO,test\\_%,NULL,DELETE
+''@'%',NO,test\\_%,NULL,CREATE
+''@'%',NO,test\\_%,NULL,DROP
+''@'%',NO,test\\_%,NULL,REFERENCES
+''@'%',NO,test\\_%,NULL,INDEX
+''@'%',NO,test\\_%,NULL,ALTER
+''@'%',NO,test\\_%,NULL,CREATE TEMPORARY TABLES
+''@'%',NO,test\\_%,NULL,LOCK TABLES
+''@'%',NO,test\\_%,NULL,CREATE VIEW
+''@'%',NO,test\\_%,NULL,SHOW VIEW
+''@'%',NO,test\\_%,NULL,CREATE ROUTINE
+

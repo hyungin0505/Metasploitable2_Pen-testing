@@ -1,0 +1,22 @@
+tool_id,comment,tool_name,tool_type,phase_to_use
+1,Can capture screenshots automatically,WebSecurify,Scanner,Discovery
+2,Has interactive-mode. Lots plug-ins. Includes Nikto. May not spider JS menus well.,Grendel-Scan,Scanner,Discovery
+3,Agressive. Fast. Uses wordlists to brute force directories.,Skipfish,Scanner,Discovery
+4,"GUI simple to use. Can call sqlmap. Allows scan packages to be saved in profiles. Provides evasion, discovery, brute force, vulneraility assessment (audit), exploitation, pattern matching (grep).",w3af,Scanner,Discovery
+5,GUI simple to use. Provides highly configurable manual scan assistence with productivity enhancements.,Burp-Suite,Scanner,Discovery
+6,Excellent spider abilities and reporting. GUI driven. Runs on Windows. Good at SQLi and XSS detection. From Mavituna Security. Professional version available for purchase.,Netsparker Community Edition,Scanner,Discovery
+7,GUI driven. Runs on Windows. From Rapid7. Professional version available for purchase. Updates automatically. Requires large amounts of memory.,NeXpose,Scanner,Discovery
+8,"From Cenzic. Professional version requires dedicated staff, multiple dediciated servers, professional pen-tester to analyze results, and very large license fee. Extensive scanning ability. Very large vulnerability database. Highly configurable. Excellent reporting. Can scan entire networks of web applications. Extremely expensive. Requires large amounts of memory.",Hailstorm,Scanner,Discovery
+9,Firefox add-on. Easy to use. Tampers with POST parameters and HTTP Headers. Does not tamper with URL query parameters. Requires manual browsing.,Tamper Data,Interception Proxy,Discovery
+10,OWASP tool. Fuzzes directory names to brute force directories.,DirBuster,Fuzzer,Discovery
+11,Firefox add-on. Attempts common strings which elicit XSS responses. Not compatible with Firefox 8.0.,SQL Inject Me,Fuzzer,Discovery
+12,Firefox add-on. Attempts common strings which elicit responses from databases when SQL injection is present. Not compatible with Firefox 8.0.,XSS Me,Fuzzer,Discovery
+13,Firefox add-on. Allows the user to inject JavaScripts and change page.,GreaseMonkey,Browser Manipulation Tool,Discovery
+14,DNS query tool can query DNS name or reverse lookup on IP. Set debug for better output. Premiere tool on Windows but Linux perfers Dig. DNS traffic generally over UDP 53 unless response long then over TCP 53. Online version combined with anonymous proxy or TOR network may be prefered for stealth.,NSLookup,DNS Server Query Tool,Reconnaissance
+15,Whois is available in Linux naitvely and Windows as a Sysinternals download plus online. Whois can lookup the registrar of a domain and the IP block associated. An online version is http://network-tools.com/,Whois,Domain name lookup service,Reconnaissance
+16,The Domain Information Groper is prefered on Linux over NSLookup and provides more information natively. NSLookup must be in debug mode to give similar output. DIG can perform zone transfers if the DNS server allows transfers.,Dig,DNS Server Query Tool,Reconnaissance
+17,Powerful DNS scan tool. FDS is a Perl program which scans and reverse scans a domain plus scans IPs within the same block to look for neighoring machines. Available in the Samurai and Backtrack distributions plus http://ha.ckers.org/fierce/,Fierce Domain Scanner,DNS Server Query Tool,Reconnaissance
+18,A simple DNS lookup tool included with BIND. The tool is a friendly and capible command line tool with excellent documentation. Does not posess the automation of FDS.,host,DNS Server Query Tool,Reconnaissance
+19,OWASP Zed Attack Proxy. An interception proxy that can also passively or actively scan applications as well as perform brute-forcing. Similar to Burp-Suite without the disadvantage of requiring a costly license.,zaproxy,Interception Proxy,Reconnaissance
+20,intitle and site directives allow directory discovery. GHDB available to provide hints. See Hackers for Charity site.,Google intitle,Search Engine,Discovery
+

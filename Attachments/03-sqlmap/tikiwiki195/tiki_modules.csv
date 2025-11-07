@@ -1,0 +1,6 @@
+ord,title,name,rows,type,params,groups,position,cache_time
+1,NULL,login_box,NULL,NULL,NULL,"a:2:{i:0;s:10:""Registered"";i:1;s:9:""Anonymous"";}",r,0
+1,NULL,mnu_application_menu,NULL,NULL,flip=y,"a:2:{i:0;s:10:""Registered"";i:1;s:9:""Anonymous"";}",l,0
+2,NULL,quick_edit,NULL,NULL,NULL,"a:1:{i:0;s:10:""Registered"";}",l,0
+10,NULL,assistant,NULL,NULL,NULL,"a:2:{i:0;s:10:""Registered"";i:1;s:9:""Anonymous"";}",l,0
+

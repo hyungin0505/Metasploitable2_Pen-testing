@@ -1,0 +1,6 @@
+type,show_lang,show_size,show_image,show_reads,show_author,show_avatar,show_linkto,use_ratings,creator_edit,heading_only,show_expdate,show_pubdate,show_topline,show_pre_publ,show_subtitle,allow_comments,show_post_expire,show_image_caption,comment_can_rate_article
+Article,n,y,y,y,y,NULL,n,NULL,NULL,NULL,NULL,y,n,NULL,n,y,y,n,NULL
+Review,n,y,y,y,y,NULL,n,y,NULL,NULL,NULL,y,n,NULL,n,y,y,n,NULL
+Event,n,y,y,y,y,NULL,n,NULL,NULL,NULL,NULL,y,n,NULL,n,y,n,n,NULL
+Classified,n,y,y,y,y,NULL,n,NULL,NULL,y,NULL,y,n,NULL,n,n,n,n,NULL
+

@@ -1,0 +1,72 @@
+GRANTEE,IS_GRANTABLE,TABLE_CATALOG,PRIVILEGE_TYPE
+'root'@'%',YES,NULL,SELECT
+'root'@'%',YES,NULL,INSERT
+'root'@'%',YES,NULL,UPDATE
+'root'@'%',YES,NULL,DELETE
+'root'@'%',YES,NULL,CREATE
+'root'@'%',YES,NULL,DROP
+'root'@'%',YES,NULL,RELOAD
+'root'@'%',YES,NULL,SHUTDOWN
+'root'@'%',YES,NULL,PROCESS
+'root'@'%',YES,NULL,FILE
+'root'@'%',YES,NULL,REFERENCES
+'root'@'%',YES,NULL,INDEX
+'root'@'%',YES,NULL,ALTER
+'root'@'%',YES,NULL,SHOW DATABASES
+'root'@'%',YES,NULL,SUPER
+'root'@'%',YES,NULL,CREATE TEMPORARY TABLES
+'root'@'%',YES,NULL,LOCK TABLES
+'root'@'%',YES,NULL,EXECUTE
+'root'@'%',YES,NULL,REPLICATION SLAVE
+'root'@'%',YES,NULL,REPLICATION CLIENT
+'root'@'%',YES,NULL,CREATE VIEW
+'root'@'%',YES,NULL,SHOW VIEW
+'root'@'%',YES,NULL,CREATE ROUTINE
+'root'@'%',YES,NULL,ALTER ROUTINE
+'root'@'%',YES,NULL,CREATE USER
+'guest'@'%',YES,NULL,SELECT
+'guest'@'%',YES,NULL,INSERT
+'guest'@'%',YES,NULL,UPDATE
+'guest'@'%',YES,NULL,DELETE
+'guest'@'%',YES,NULL,CREATE
+'guest'@'%',YES,NULL,DROP
+'guest'@'%',YES,NULL,RELOAD
+'guest'@'%',YES,NULL,SHUTDOWN
+'guest'@'%',YES,NULL,PROCESS
+'guest'@'%',YES,NULL,FILE
+'guest'@'%',YES,NULL,REFERENCES
+'guest'@'%',YES,NULL,INDEX
+'guest'@'%',YES,NULL,ALTER
+'guest'@'%',YES,NULL,SHOW DATABASES
+'guest'@'%',YES,NULL,SUPER
+'guest'@'%',YES,NULL,CREATE TEMPORARY TABLES
+'guest'@'%',YES,NULL,LOCK TABLES
+'guest'@'%',YES,NULL,EXECUTE
+'guest'@'%',YES,NULL,REPLICATION SLAVE
+'guest'@'%',YES,NULL,REPLICATION CLIENT
+'guest'@'%',YES,NULL,CREATE VIEW
+'guest'@'%',YES,NULL,SHOW VIEW
+'guest'@'%',YES,NULL,CREATE ROUTINE
+'guest'@'%',YES,NULL,ALTER ROUTINE
+'guest'@'%',YES,NULL,CREATE USER
+'debian-sys-maint'@'',YES,NULL,SELECT
+'debian-sys-maint'@'',YES,NULL,INSERT
+'debian-sys-maint'@'',YES,NULL,UPDATE
+'debian-sys-maint'@'',YES,NULL,DELETE
+'debian-sys-maint'@'',YES,NULL,CREATE
+'debian-sys-maint'@'',YES,NULL,DROP
+'debian-sys-maint'@'',YES,NULL,RELOAD
+'debian-sys-maint'@'',YES,NULL,SHUTDOWN
+'debian-sys-maint'@'',YES,NULL,PROCESS
+'debian-sys-maint'@'',YES,NULL,FILE
+'debian-sys-maint'@'',YES,NULL,REFERENCES
+'debian-sys-maint'@'',YES,NULL,INDEX
+'debian-sys-maint'@'',YES,NULL,ALTER
+'debian-sys-maint'@'',YES,NULL,SHOW DATABASES
+'debian-sys-maint'@'',YES,NULL,SUPER
+'debian-sys-maint'@'',YES,NULL,CREATE TEMPORARY TABLES
+'debian-sys-maint'@'',YES,NULL,LOCK TABLES
+'debian-sys-maint'@'',YES,NULL,EXECUTE
+'debian-sys-maint'@'',YES,NULL,REPLICATION SLAVE
+'debian-sys-maint'@'',YES,NULL,REPLICATION CLIENT
+

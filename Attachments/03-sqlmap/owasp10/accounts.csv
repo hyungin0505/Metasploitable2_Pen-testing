@@ -1,0 +1,18 @@
+cid,is_admin,password,username,mysignature
+1,TRUE,adminpass,admin,Monkey!
+2,TRUE,somepassword,adrian,Zombie Films Rock!
+3,FALSE,monkey,john,I like the smell of confunk
+4,FALSE,password,jeremy,d1373 1337 speak
+5,FALSE,password,bryce,I Love SANS
+6,FALSE,samurai,samurai,Carving Fools
+7,FALSE,password,jim,Jim Rome is Burning
+8,FALSE,password,bobby,Hank is my dad
+9,FALSE,password,simba,I am a cat
+10,FALSE,password,dreveil,Preparation H
+11,FALSE,password,scotty,Scotty Do
+12,FALSE,password,cal,Go Wildcats
+13,FALSE,password,john,Do the Duggie!
+14,FALSE,42,kevin,Doug Adams rocks
+15,FALSE,set,dave,Bet on S.E.T. FTW
+16,FALSE,pentest,ed,Commandline KungFu anyone?
+
